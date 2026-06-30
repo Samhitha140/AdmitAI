@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "Technical University of Munich",
+    "name_german": "Technische Universität München",
+    "type": "public_research",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.tum.de",
+    "ranking_qs": 37,
+    "ranking_the": 30,
+    "programs": ["MSc Informatics", "MSc Data Engineering and Analytics", "MSc Robotics, Cognition, Intelligence", "MSc Computational Science and Engineering", "MSc Electrical Engineering", "MSc Aerospace Engineering", "MSc Mechanical Engineering", "MSc Mathematics in Data Science"],
+    "admission_requirements": {
+      "min_cgpa": 8.0,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate for Indian students", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Subject-specific aptitude test for some programs"]
+    },
+    "deadlines": {
+      "winter": "2025-05-31",
+      "summer": "2024-11-30"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "TUM Graduate School", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "MAN", "Airbus", "Google", "Microsoft", "Apple"],
+      "avg_starting_salary_eur": 62000,
+      "placement_rate_pct": 97
+    },
+    "description": "Germany's top-ranked technical university and one of Europe's finest. Consistently ranked #1 in Germany for engineering and computer science. Strong research culture, excellent Munich location, outstanding alumni network including Nobel laureates and tech founders.",
+    "data_source": "curated"
+  },
+  {
+    "name": "RWTH Aachen University",
+    "name_german": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "type": "public_research",
+    "city": "Aachen",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.rwth-aachen.de",
+    "ranking_qs": 106,
+    "ranking_the": 91,
+    "programs": ["MSc Computer Science", "MSc Data Science", "MSc Electrical Engineering and Information Technology", "MSc Mechanical Engineering", "MSc Automation Engineering", "MSc Software Systems Engineering", "MSc Computational Engineering Science"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Program-specific prerequisites"]
+    },
+    "deadlines": {
+      "winter": "2025-03-01",
+      "summer": null
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 300,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "RWTH Excellence Scholarship", "Graduation Grant"],
+    "career_prospects": {
+      "top_employers": ["Ford", "Ericsson", "Deutsche Telekom", "Siemens", "Covestro", "Bayer"],
+      "avg_starting_salary_eur": 58000,
+      "placement_rate_pct": 96
+    },
+    "description": "Germany's largest technical university and a global leader in engineering education. Known for close industry partnerships and research excellence. Located near Cologne and Brussels, excellent for automotive, electronics, and manufacturing careers.",
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Berlin",
+    "name_german": "Technische Universität Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.tu.berlin",
+    "ranking_qs": 159,
+    "ranking_the": 201,
+    "programs": ["MSc Computer Science", "MSc Computer Engineering", "MSc Electrical Engineering", "MSc Information Systems Management", "MSc Scientific Computing", "MSc Automotive Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 307,
+    "living_cost_eur_month": 1050,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Heinrich Böll Foundation", "Berlin State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "SAP", "Delivery Hero", "Zalando", "Deutsche Telekom", "Airbus"],
+      "avg_starting_salary_eur": 55000,
+      "placement_rate_pct": 94
+    },
+    "description": "Berlin's premier technical university in Germany's startup capital. Excellent location for networking and industry internships. Strong CS and AI research groups. Access to Berlin's vibrant tech ecosystem and proximity to other Berlin universities.",
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Braunschweig",
+    "name_german": "Technische Universität Braunschweig",
+    "type": "public_research",
+    "city": "Braunschweig",
+    "state": "Lower Saxony",
+    "website": "https://www.tu-braunschweig.de",
+    "ranking_qs": 601,
+    "ranking_the": 501,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Automotive Engineering", "MSc Computer and Communication Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 380,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Lower Saxony Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Volkswagen", "Continental", "Siemens", "NXP Semiconductors", "Bosch"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 93
+    },
+    "description": "Germany's oldest TU9 university, founded in 1745. Strong in automotive, aerospace, and information technology. Located in Lower Saxony, heart of German automotive research. Close partnerships with Volkswagen, Continental, and other major automotive players.",
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Darmstadt",
+    "name_german": "Technische Universität Darmstadt",
+    "type": "public_research",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "website": "https://www.tu-darmstadt.de",
+    "ranking_qs": 321,
+    "ranking_the": 201,
+    "programs": ["MSc Computer Science", "MSc Autonomous Systems", "MSc IT Security", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Data and Discourse Studies"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Subject-specific prerequisites"]
+    },
+    "deadlines": {
+      "winter": "2025-06-01",
+      "summer": "2024-12-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 319,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hessenstipendium", "DFG Research Grants"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Software AG", "Merck KGaA", "Daimler", "T-Systems"],
+      "avg_starting_salary_eur": 58000,
+      "placement_rate_pct": 95
+    },
+    "description": "Germany's leading IT security research university and strong in autonomous systems. Located 30 minutes from Frankfurt. The IT Security master's program is world-renowned. Excellent for students interested in cybersecurity, AI, and autonomous vehicles.",
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Dresden",
+    "name_german": "Technische Universität Dresden",
+    "type": "public_research",
+    "city": "Dresden",
+    "state": "Saxony",
+    "website": "https://www.tu-dresden.de",
+    "ranking_qs": 237,
+    "ranking_the": 201,
+    "programs": ["MSc Computer Science", "MSc Distributed Systems Engineering", "MSc Electrical Engineering", "MSc Mechatronics", "MSc Molecular Bioengineering", "MSc Advanced Computational and Civil Engineering Structural Studies"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-05-31",
+      "summer": "2024-11-30"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 280,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Saxon State Scholarship", "EXIST Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Infineon", "GlobalFoundries", "Volkswagen", "Siemens", "Robert Bosch"],
+      "avg_starting_salary_eur": 51000,
+      "placement_rate_pct": 93
+    },
+    "description": "Excellence Initiative university and the largest university in the eastern German state of Saxony. Strong in semiconductor research (Silicon Saxony cluster), distributed systems, and biomedical engineering. Very affordable cost of living.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Leibniz University Hannover",
+    "name_german": "Gottfried Wilhelm Leibniz Universität Hannover",
+    "type": "public_research",
+    "city": "Hannover",
+    "state": "Lower Saxony",
+    "website": "https://www.uni-hannover.de",
+    "ranking_qs": 601,
+    "ranking_the": 501,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Mathematics", "MSc Environmental Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-01",
+      "summer": "2025-01-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 378,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Lower Saxony Research Grant"],
+    "career_prospects": {
+      "top_employers": ["Volkswagen", "Continental", "Siemens", "TUI", "Deutsche Messe"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 91
+    },
+    "description": "Named after philosopher Leibniz, this TU9 university excels in engineering and natural sciences. Hannover is home to the world's largest industrial trade fair (Hannover Messe), providing excellent industry networking opportunities.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Karlsruhe Institute of Technology",
+    "name_german": "Karlsruher Institut für Technologie",
+    "type": "public_research",
+    "city": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "website": "https://www.kit.edu",
+    "ranking_qs": 119,
+    "ranking_the": 130,
+    "programs": ["MSc Computer Science", "MSc Information Systems Engineering", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Mathematics", "MSc Optics and Photonics"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "GRE recommended for some programs"]
+    },
+    "deadlines": {
+      "winter": "2025-06-30",
+      "summer": "2024-12-31"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 196,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "KIT Scholarship", "Helmholtz Research Grant"],
+    "career_prospects": {
+      "top_employers": ["SAP", "ABB", "Siemens", "Bosch", "Daimler", "EnBW"],
+      "avg_starting_salary_eur": 60000,
+      "placement_rate_pct": 96
+    },
+    "description": "Germany's research university in the Helmholtz Association. Consistently among the top 5 German universities for CS and engineering. Close proximity to SAP headquarters and Baden-Württemberg's thriving tech corridor. Excellent for AI, robotics, and software engineering.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Stuttgart",
+    "name_german": "Universität Stuttgart",
+    "type": "public_research",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-stuttgart.de",
+    "ranking_qs": 351,
+    "ranking_the": 251,
+    "programs": ["MSc Computer Science", "MSc Information Technology", "MSc Electrical Engineering", "MSc Mechatronics", "MSc Autonomous Systems", "MSc Simulation Technology"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 204,
+    "living_cost_eur_month": 950,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship", "DFG Grant"],
+    "career_prospects": {
+      "top_employers": ["Daimler", "Bosch", "Porsche", "IBM", "Zeiss", "SEW-Eurodrive"],
+      "avg_starting_salary_eur": 58000,
+      "placement_rate_pct": 95
+    },
+    "description": "TU9 member in the heartland of German engineering excellence. Surrounded by global automotive giants (Mercedes-Benz, Porsche, Bosch). Strong in robotics, simulation, and autonomous driving. Excellent industry partnerships and internship culture.",
+    "data_source": "curated"
+  },
+  {
+    "name": "LMU Munich",
+    "name_german": "Ludwig-Maximilians-Universität München",
+    "type": "public_research",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.lmu.de",
+    "ranking_qs": 54,
+    "ranking_the": 32,
+    "programs": ["MSc Computer Science", "MSc Data Science", "MSc Bioinformatics", "MSc Statistics and Data Science", "MSc Informatics", "MSc Quantum Science and Technology"],
+    "admission_requirements": {
+      "min_cgpa": 8.0,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Strong mathematical foundation required"]
+    },
+    "deadlines": {
+      "winter": "2025-06-01",
+      "summer": "2024-12-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "LMU Excellence Scholarship", "Bavarian Elite Network"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "Allianz", "MAN", "Microsoft", "Google"],
+      "avg_starting_salary_eur": 60000,
+      "placement_rate_pct": 96
+    },
+    "description": "Germany's second-highest ranked university and Munich's comprehensive research powerhouse. Among the top 60 globally. Exceptional research environment, Nobel Prize tradition, and strong data science programs. Located in Munich alongside TUM.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Heidelberg University",
+    "name_german": "Ruprecht-Karls-Universität Heidelberg",
+    "type": "public_research",
+    "city": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-heidelberg.de",
+    "ranking_qs": 87,
+    "ranking_the": 42,
+    "programs": ["MSc Computer and Data Science", "MSc Mathematics", "MSc Physics", "MSc Scientific Computing", "MSc Bioinformatics"],
+    "admission_requirements": {
+      "min_cgpa": 8.0,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 100,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Strong academic record essential"]
+    },
+    "deadlines": {
+      "winter": "2025-06-15",
+      "summer": "2024-12-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 180,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Heidelberg Excellence Scholarship", "Klaus Tschira Foundation"],
+    "career_prospects": {
+      "top_employers": ["SAP", "BASF", "Roche", "ABB", "Springer Nature"],
+      "avg_starting_salary_eur": 57000,
+      "placement_rate_pct": 93
+    },
+    "description": "Germany's oldest university (est. 1386) and consistently among Europe's elite. Excellence Initiative university with world-class research in bioinformatics and data science. Close to SAP headquarters and surrounded by pharma and biotech companies.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Humboldt University of Berlin",
+    "name_german": "Humboldt-Universität zu Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.hu-berlin.de",
+    "ranking_qs": 120,
+    "ranking_the": 88,
+    "programs": ["MSc Computer Science", "MSc Statistics", "MSc Information Systems", "MSc Bioinformatics", "MSc Mathematics"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 307,
+    "living_cost_eur_month": 1050,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Berlin State Scholarship", "Heinrich Böll Foundation"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "SAP", "Deutsche Telekom", "McKinsey", "Zalando"],
+      "avg_starting_salary_eur": 54000,
+      "placement_rate_pct": 92
+    },
+    "description": "One of Berlin's top universities and a global leader in humanities, sciences, and interdisciplinary research. Named after Wilhelm and Alexander von Humboldt. Located in central Berlin with access to the city's vibrant tech and startup scene.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Free University of Berlin",
+    "name_german": "Freie Universität Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.fu-berlin.de",
+    "ranking_qs": 98,
+    "ranking_the": 105,
+    "programs": ["MSc Computer Science", "MSc Mathematics", "MSc Bioinformatics", "MSc Biomedical Engineering", "MSc Physics"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-01",
+      "summer": "2024-12-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 320,
+    "living_cost_eur_month": 1050,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "FU Excellence Initiative", "Berlin-Brandenburg Academy"],
+    "career_prospects": {
+      "top_employers": ["Charité", "SAP", "Deutsche Telekom", "McKinsey", "Siemens"],
+      "avg_starting_salary_eur": 53000,
+      "placement_rate_pct": 92
+    },
+    "description": "Excellence Initiative university and part of the Berlin University Alliance. Strong international orientation with partnerships worldwide. Computer Science and bioinformatics programs are particularly strong. Access to Berlin's tech ecosystem.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Göttingen",
+    "name_german": "Georg-August-Universität Göttingen",
+    "type": "public_research",
+    "city": "Göttingen",
+    "state": "Lower Saxony",
+    "website": "https://www.uni-goettingen.de",
+    "ranking_qs": 210,
+    "ranking_the": 152,
+    "programs": ["MSc Applied Computer Science", "MSc Data Science", "MSc Physics", "MSc Mathematics", "MSc Bioinformatics", "MSc Computational Neuroscience"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-01",
+      "summer": "2025-01-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 370,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Max Planck Institute Grants", "Lower Saxony Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Otto Bock", "Sartorious", "Deutsche Bank", "Research institutes"],
+      "avg_starting_salary_eur": 49000,
+      "placement_rate_pct": 89
+    },
+    "description": "Historic Excellence Initiative university with 45+ Nobel laureates among faculty and alumni. Strong in fundamental sciences, mathematics, and interdisciplinary research. Close to Max Planck Institutes. Affordable student city with excellent research infrastructure.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Hamburg",
+    "name_german": "Universität Hamburg",
+    "type": "public_research",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.uni-hamburg.de",
+    "ranking_qs": 194,
+    "ranking_the": 156,
+    "programs": ["MSc Intelligent Adaptive Systems", "MSc Computer Science", "MSc Data Science", "MSc Physics", "MSc Bioinformatics", "MSc Atmospheric Sciences"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 344,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hamburg Scholarship", "DESY Research Grants"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "Beiersdorf", "Hamburg Port Authority", "Otto Group", "Hapag-Lloyd"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 91
+    },
+    "description": "Excellence Initiative university in Germany's second-largest city and Europe's second-largest port. Strong AI research cluster with the German Research Center for Artificial Intelligence (DFKI). Access to Hamburg's logistics, aviation, and media industries.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Cologne",
+    "name_german": "Universität zu Köln",
+    "type": "public_research",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-koeln.de",
+    "ranking_qs": 221,
+    "ranking_the": 190,
+    "programs": ["MSc Data Science and Scientific Computing", "MSc Computer Science", "MSc Information Systems", "MSc Mathematics", "MSc Physics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Cologne Excellence Initiative"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Telekom", "Ford Germany", "Bayer", "Lanxess", "RTL Group"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 91
+    },
+    "description": "One of Germany's largest universities with over 50,000 students. Strong data science program and growing AI research. Located in Cologne, with easy access to Bonn and Düsseldorf tech companies. Excellent for students seeking a vibrant urban student experience.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Tübingen",
+    "name_german": "Eberhard Karls Universität Tübingen",
+    "type": "public_research",
+    "city": "Tübingen",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-tuebingen.de",
+    "ranking_qs": 173,
+    "ranking_the": 121,
+    "programs": ["MSc Computer Science", "MSc Machine Learning", "MSc Bioinformatics", "MSc Mathematics", "MSc Computational Biology"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Strong mathematics background", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-06-01",
+      "summer": null
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 160,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Max Planck Grants", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Bosch", "Daimler", "ZF Friedrichshafen", "Amazon", "Google DeepMind"],
+      "avg_starting_salary_eur": 56000,
+      "placement_rate_pct": 94
+    },
+    "description": "Excellence Initiative university and global leader in machine learning research. Home to the International Max Planck Research School for Intelligent Systems. THE top destination in Germany for ML/AI students. Bernhard Schölkopf (kernel methods) is based here.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Freiburg",
+    "name_german": "Albert-Ludwigs-Universität Freiburg",
+    "type": "public_research",
+    "city": "Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-freiburg.de",
+    "ranking_qs": 201,
+    "ranking_the": 157,
+    "programs": ["MSc Computer Science", "MSc Computational Neurosciences", "MSc Micro and Nano Systems", "MSc Embedded Systems Engineering", "MSc Physics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 163,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship", "Freiburg Institute for Advanced Studies"],
+    "career_prospects": {
+      "top_employers": ["Bosch", "Trumpf", "Sick AG", "Endress+Hauser", "Schott AG"],
+      "avg_starting_salary_eur": 51000,
+      "placement_rate_pct": 91
+    },
+    "description": "Excellence Initiative university in the Black Forest. Strong in robotics, autonomous systems, and embedded computing. Close to France and Switzerland, offering a tri-border region advantage for international careers. Beautiful city with excellent quality of life.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Bonn",
+    "name_german": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "type": "public_research",
+    "city": "Bonn",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-bonn.de",
+    "ranking_qs": 201,
+    "ranking_the": 138,
+    "programs": ["MSc Computer Science", "MSc Mathematics", "MSc Geodesy and Geoinformation", "MSc Physics", "MSc Agricultural Sciences"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hausdorff Center for Mathematics", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Telekom", "Deutsche Post DHL", "Haribo", "German Aerospace Center", "Research institutes"],
+      "avg_starting_salary_eur": 51000,
+      "placement_rate_pct": 90
+    },
+    "description": "Excellence Initiative university and former West German capital. Known for Hausdorff Center for Mathematics and strong computing research. Deutsche Telekom and DHL headquarters are in Bonn. Affordable cost of living near Cologne.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Münster",
+    "name_german": "Westfälische Wilhelms-Universität Münster",
+    "type": "public_research",
+    "city": "Münster",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-muenster.de",
+    "ranking_qs": 221,
+    "ranking_the": 167,
+    "programs": ["MSc Computer Science", "MSc Mathematics", "MSc Physics", "MSc Information Systems", "MSc Geoinformatics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Cluster of Excellence Grants"],
+    "career_prospects": {
+      "top_employers": ["Atos", "Wincor Nixdorf", "Westfalia Separator", "Landwirtschaftliche Rentenbank", "Research institutes"],
+      "avg_starting_salary_eur": 49000,
+      "placement_rate_pct": 89
+    },
+    "description": "Excellence Initiative university known as the 'bicycle capital' of Germany. Strong in geoinformatics and information systems. Very active student life with over 50,000 students. Affordable and highly liveable city in NRW.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Goethe University Frankfurt",
+    "name_german": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+    "type": "public_research",
+    "city": "Frankfurt am Main",
+    "state": "Hesse",
+    "website": "https://www.goethe-university-frankfurt.de",
+    "ranking_qs": 311,
+    "ranking_the": 174,
+    "programs": ["MSc Computer Science", "MSc Data Science in Finance", "MSc Mathematics", "MSc Physics", "MSc Bioinformatics", "MSc Information Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 298,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Frankfurt Scholarship", "Goethe-Excellence Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Bank", "Commerzbank", "Goldman Sachs", "SAP", "Deloitte"],
+      "avg_starting_salary_eur": 58000,
+      "placement_rate_pct": 93
+    },
+    "description": "Excellence Initiative university located in Europe's financial capital. Exceptional for finance-tech (fintech), data science in finance, and quantitative computing. Frankfurt's ECB, Deutsche Bank, and global finance sector provide unparalleled career access.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Mannheim",
+    "name_german": "Universität Mannheim",
+    "type": "public_research",
+    "city": "Mannheim",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-mannheim.de",
+    "ranking_qs": 351,
+    "ranking_the": 201,
+    "programs": ["MSc Computer Science", "MSc Data Science", "MSc Business Informatics", "MSc Mathematics", "MSc Information Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 95,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume", "Numerus Clausus applies"]
+    },
+    "deadlines": {
+      "winter": "2025-07-01",
+      "summer": "2025-01-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 184,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Mannheim Excellence Initiative"],
+    "career_prospects": {
+      "top_employers": ["SAP", "BASF", "Roche", "ABB", "McKinsey"],
+      "avg_starting_salary_eur": 57000,
+      "placement_rate_pct": 94
+    },
+    "description": "Germany's top business university adjacent to SAP's headquarters. Exceptionally strong in business informatics and data science. Located in the Rhine-Neckar tech corridor. Strong analytics programs highly sought after by SAP and consulting firms.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Bremen",
+    "name_german": "Universität Bremen",
+    "type": "public_research",
+    "city": "Bremen",
+    "state": "Bremen",
+    "website": "https://www.uni-bremen.de",
+    "ranking_qs": 521,
+    "ranking_the": 301,
+    "programs": ["MSc Computer Science", "MSc Intelligent Systems", "MSc Systems Engineering", "MSc Digital Media", "MSc Space Sciences and Technologies"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 360,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bremen Excellence Initiative"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "OHB SE", "Beck's", "Weser-Kurier", "Bremer Landesbank"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 89
+    },
+    "description": "Excellence Initiative university with strong space technology and intelligent systems programs. Home to DFKI (German Research Center for AI) campus. Airbus has major production facilities nearby. Strong international research partnerships.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Bielefeld University",
+    "name_german": "Universität Bielefeld",
+    "type": "public_research",
+    "city": "Bielefeld",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-bielefeld.de",
+    "ranking_qs": 421,
+    "ranking_the": 251,
+    "programs": ["MSc Intelligent Systems", "MSc Computer Science", "MSc Bioinformatics and Genome Research", "MSc Data Science", "MSc Cognitive Informatics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 320,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "CITEC Excellence Grant"],
+    "career_prospects": {
+      "top_employers": ["Dr. Oetker", "Bertelsmann", "Miele", "Claas", "Gerry Weber"],
+      "avg_starting_salary_eur": 48000,
+      "placement_rate_pct": 88
+    },
+    "description": "Excellence Initiative university with the CITEC (Center of Excellence for Cognitive Interaction Technology) making it a European hub for intelligent systems and cognitive robotics. Very affordable city with modern campus facilities built around a central hall concept.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Ruhr University Bochum",
+    "name_german": "Ruhr-Universität Bochum",
+    "type": "public_research",
+    "city": "Bochum",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.ruhr-uni-bochum.de",
+    "ranking_qs": 401,
+    "ranking_the": 251,
+    "programs": ["MSc Computer Science", "MSc IT Security", "MSc Electrical Engineering and Information Technology", "MSc Mechanical Engineering", "MSc Automation and Robotics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 350,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "CASA Cluster of Excellence", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Thyssenkrupp", "Evonik", "E.ON", "Bayer", "Deutsche Telekom"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 90
+    },
+    "description": "Excellence Initiative university in the Ruhr valley. Home to CASA (Cyber Security in the Age of Large-Scale Adversaries) – Germany's premier cybersecurity cluster. Strong engineering tradition transitioning toward digital industries. Largest university campus in Germany.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Duisburg-Essen",
+    "name_german": "Universität Duisburg-Essen",
+    "type": "public_research",
+    "city": "Duisburg",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-due.de",
+    "ranking_qs": 541,
+    "ranking_the": 301,
+    "programs": ["MSc Computer Science", "MSc Data Science", "MSc Electrical Engineering", "MSc Mechatronics", "MSc Information Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 290,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "mercator Research Center", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Thyssenkrupp", "Amazon", "Deutsche Post DHL", "E.ON", "GEA Group"],
+      "avg_starting_salary_eur": 48000,
+      "placement_rate_pct": 87
+    },
+    "description": "Excellence Initiative university formed from the merger of two universities. Located in the Ruhr metropolitan area with easy access to Cologne, Dortmund, and Düsseldorf. Strong data science programs and good industry connections to Rhine-Ruhr companies.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Saarland University",
+    "name_german": "Universität des Saarlandes",
+    "type": "public_research",
+    "city": "Saarbrücken",
+    "state": "Saarland",
+    "website": "https://www.uni-saarland.de",
+    "ranking_qs": 601,
+    "ranking_the": 401,
+    "programs": ["MSc Computer Science", "MSc Bioinformatics", "MSc Language Science and Technology", "MSc Visual Computing", "MSc Mathematics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-01",
+      "summer": "2025-01-01"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 256,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "MPI Scholarship", "Franco-German Youth Office"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Ford Germany", "ZF Friedrichshafen", "Saarstahl", "Research institutes"],
+      "avg_starting_salary_eur": 49000,
+      "placement_rate_pct": 89
+    },
+    "description": "Excellence Initiative university and home to multiple Max Planck Institutes for informatics and software systems. Close to France with a tri-border advantage (Germany, France, Luxembourg). Saarbrücken is Europe's largest AI/CS research hub per capita.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hamburg University of Technology",
+    "name_german": "Technische Universität Hamburg",
+    "type": "public_research",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.tuhh.de",
+    "ranking_qs": 601,
+    "ranking_the": 501,
+    "programs": ["MSc Computational Science and Engineering", "MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Green Technologies"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 344,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hamburg Foundation", "Airbus Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "Hamburger Hafen und Logistik AG", "Beiersdorf", "Olympus", "NXP"],
+      "avg_starting_salary_eur": 53000,
+      "placement_rate_pct": 92
+    },
+    "description": "Hamburg's dedicated technical university offering focused engineering and technology programs. Close partnership with Airbus, Hamburg Port, and local tech companies. Part of the Hamburg Innovation Port ecosystem. Strong green technology research.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Ulm",
+    "name_german": "Universität Ulm",
+    "type": "public_research",
+    "city": "Ulm",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-ulm.de",
+    "ranking_qs": 601,
+    "ranking_the": 401,
+    "programs": ["MSc Computer Science", "MSc Software Engineering", "MSc Electrical Engineering", "MSc Biomedical Engineering", "MSc Mathematics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 168,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Daimler", "Bosch", "Valeo", "Continental", "Iveco"],
+      "avg_starting_salary_eur": 51000,
+      "placement_rate_pct": 91
+    },
+    "description": "Excellence Initiative university in Einstein's birthplace. Strong in software engineering and biomedical technology. The Ulm Science Park hosts numerous tech companies on campus. Known for the Science City concept integrating university and industry.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Augsburg",
+    "name_german": "Universität Augsburg",
+    "type": "public_research",
+    "city": "Augsburg",
+    "state": "Bavaria",
+    "website": "https://www.uni-augsburg.de",
+    "ranking_qs": 701,
+    "ranking_the": 501,
+    "programs": ["MSc Computer Science", "MSc Applied Computer Science", "MSc Data Science", "MSc Mechatronics", "MSc Physics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["MAN", "KUKA", "Fujitsu", "Osram", "MAN Truck"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 90
+    },
+    "description": "Excellence Initiative university close to Munich. Strong in applied computer science, mechatronics, and physics. KUKA Robotics and MAN have major research partnerships. Augsburg is Bavaria's third-largest city with lower costs than Munich but similar job access.",
+    "data_source": "curated"
+  },
+  {
+    "name": "HTW Berlin – University of Applied Sciences",
+    "name_german": "Hochschule für Technik und Wirtschaft Berlin",
+    "type": "public_applied",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.htw-berlin.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Angewandte Informatik (Applied CS)", "MSc Business Informatics", "MSc Engineering", "MSc Data Science"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 307,
+    "living_cost_eur_month": 1050,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Berlin State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Zalando", "SAP", "Deutsche Telekom", "Siemens", "Start-ups"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Berlin's largest university of applied sciences with strong practical engineering and CS programs. Excellent industry connections in Berlin's tech ecosystem. Good alternative to research universities for those wanting applied focus and good job prospects.",
+    "data_source": "curated"
+  },
+  {
+    "name": "HAW Hamburg",
+    "name_german": "Hochschule für Angewandte Wissenschaften Hamburg",
+    "type": "public_applied",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.haw-hamburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechatronics", "MSc Information Technology", "MSc Digital Media"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 344,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hamburg Foundation"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "Beiersdorf", "Otto Group", "Hapag-Lloyd", "NXP"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Hamburg's largest applied sciences university with strong ties to Hamburg's aviation, port, and media industries. Practical, industry-focused programs. Very good employment outcomes in Hamburg's strong economy.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule München",
+    "name_german": "Hochschule für angewandte Wissenschaften München",
+    "type": "public_applied",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.hm.edu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science and Engineering", "MSc Applied Research in Engineering Sciences", "MSc Information Engineering", "MSc Sensor Systems Technology", "MSc Data Science and Analytics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "MAN", "Allianz", "Infineon"],
+      "avg_starting_salary_eur": 48000,
+      "placement_rate_pct": 90
+    },
+    "description": "Munich's applied sciences university – Germany's largest Hochschule by enrollment. Exceptional industry connections with Munich's premium employers. Practical engineering and CS programs with internship culture. Excellent job outcomes despite Munich's high cost of living.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Karlsruhe",
+    "name_german": "Hochschule Karlsruhe – Technik und Wirtschaft",
+    "type": "public_applied",
+    "city": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "website": "https://www.h-ka.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Information Management", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Geomatics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 196,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Siemens", "ABB", "Bosch", "ENBW"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 89
+    },
+    "description": "Applied sciences university in Karlsruhe's tech hub, adjacent to KIT. Strong engineering and CS programs with industry co-operation. Located in Germany's 'technology region Karlsruhe'. Excellent for students wanting applied engineering in the SAP/Siemens corridor.",
+    "data_source": "curated"
+  },
+  {
+    "name": "OTH Regensburg",
+    "name_german": "Ostbayerische Technische Hochschule Regensburg",
+    "type": "public_applied",
+    "city": "Regensburg",
+    "state": "Bavaria",
+    "website": "https://www.oth-regensburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical and Microsystems Engineering", "MSc Mechatronics", "MSc International Business and Finance", "MSc Applied Research in Engineering Sciences"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Continental", "Siemens", "MAN", "Infineon"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Applied sciences university in the historic city of Regensburg, Bavaria. Strong partnerships with BMW and automotive suppliers. Good CS and electronics programs. Regensburg has a growing tech sector and very affordable living costs compared to Munich.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Furtwangen University",
+    "name_german": "Hochschule Furtwangen University",
+    "type": "public_applied",
+    "city": "Furtwangen",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-furtwangen.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Networking Technology", "MSc Applied Computer Science", "MSc Data Science", "MSc Business Information Systems", "MSc Embedded Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 170,
+    "living_cost_eur_month": 700,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium"],
+    "career_prospects": {
+      "top_employers": ["Sick AG", "Bosch", "Daimler", "HELLA", "IHK Schwarzwald-Baar-Heuberg"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 87
+    },
+    "description": "Specialized applied sciences university in the Black Forest region known for clock-making tradition and precision engineering. Strong CS and embedded systems programs. Very affordable living costs. Good practical focus with industry-linked projects.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Heilbronn",
+    "name_german": "Hochschule Heilbronn",
+    "type": "public_applied",
+    "city": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-heilbronn.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Information Technology", "MSc Engineering Management", "MSc Automotive Systems Engineering", "MSc Business Informatics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 178,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Dieter Schwarz Foundation Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Bosch", "Daimler", "AUDI", "Schwarz Group (Lidl/Kaufland)", "Bechtle"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 89
+    },
+    "description": "Applied sciences university in Heilbronn, home to Germany's largest private employer (Schwarz Group – Lidl/Kaufland). Strong automotive and IT programs. The Innovation Park Artificial Intelligence (IPAI) is being built here, making it a future AI hub.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Reutlingen",
+    "name_german": "Hochschule Reutlingen – Reutlingen University",
+    "type": "public_applied",
+    "city": "Reutlingen",
+    "state": "Baden-Württemberg",
+    "website": "https://www.reutlingen-university.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Project Management", "MSc Design and Technology Management", "MSc Computer Science", "MSc Engineering", "MSc Business Administration"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 180,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Bosch", "Daimler", "SAP", "Bizerba", "Schuler Group"],
+      "avg_starting_salary_eur": 45000,
+      "placement_rate_pct": 87
+    },
+    "description": "Applied sciences university near Stuttgart with strong international programs. Located in Baden-Württemberg's 'tech triangle' between Stuttgart, Tübingen, and Ulm. Good English-taught programs for international students. ESB Business School on campus is well-regarded.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Pforzheim",
+    "name_german": "Hochschule Pforzheim",
+    "type": "public_applied",
+    "city": "Pforzheim",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-pforzheim.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Engineering Management", "MSc Business and Technology Management", "MSc Information Technology", "MSc Design and Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 190,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium"],
+    "career_prospects": {
+      "top_employers": ["Porsche", "Bosch", "Mercedes-Benz", "Siemens", "dm-drogerie markt"],
+      "avg_starting_salary_eur": 45000,
+      "placement_rate_pct": 87
+    },
+    "description": "Applied sciences university between Karlsruhe and Stuttgart, near Porsche's R&D facilities. Strong engineering-management hybrid programs. Good for students wanting to combine technical and business skills. Access to Baden-Württemberg's automotive corridor.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Esslingen",
+    "name_german": "Hochschule Esslingen – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Esslingen am Neckar",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-esslingen.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Automotive Engineering", "MSc Embedded Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 200,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium"],
+    "career_prospects": {
+      "top_employers": ["Daimler", "Bosch", "Porsche", "SEW-Eurodrive", "SICK AG"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Applied sciences university directly adjacent to Stuttgart and Daimler's headquarters. Excellent automotive and embedded systems programs with direct company partnerships. Germany's oldest technical higher education institution. Very high practical relevance.",
+    "data_source": "curated"
+  },
+  {
+    "name": "FH Aachen University of Applied Sciences",
+    "name_german": "Fachhochschule Aachen",
+    "type": "public_applied",
+    "city": "Aachen",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.fh-aachen.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Electrical Engineering", "MSc Computer Science", "MSc Mechanical Engineering", "MSc Aerospace Engineering", "MSc Energy Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 300,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Ford", "Ericsson", "Covestro", "Bayer Material Science", "Siemens"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Applied sciences university in the same city as RWTH Aachen. More accessible admission requirements but strong practical engineering programs. Aerospace engineering program is among Germany's best at applied level. Good proximity to Belgium and Netherlands.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Darmstadt",
+    "name_german": "Hochschule Darmstadt – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "website": "https://www.h-da.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Applied Informatics", "MSc Electrical Engineering", "MSc IT Security", "MSc Distributed Software Systems"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 319,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hessenstipendium"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Software AG", "Merck KGaA", "T-Systems", "Huawei Germany"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 89
+    },
+    "description": "Applied sciences university in Darmstadt's 'Science City'. Located near TU Darmstadt and Software AG headquarters. Strong IT security and distributed systems programs. Access to Darmstadt's dense IT and software cluster.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Düsseldorf",
+    "name_german": "Hochschule Düsseldorf – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Düsseldorf",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.hs-duesseldorf.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Biomedical Engineering", "MSc Information Technology"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 950,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Henkel", "Metro", "ThyssenKrupp", "E.ON", "Vodafone Germany"],
+      "avg_starting_salary_eur": 47000,
+      "placement_rate_pct": 88
+    },
+    "description": "Applied sciences university in Germany's fashion and trade capital. Located in NRW's economic center. Strong biomedical engineering program and IT programs. Düsseldorf's international business environment provides diverse career opportunities.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Osnabrück",
+    "name_german": "Hochschule Osnabrück – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Osnabrück",
+    "state": "Lower Saxony",
+    "website": "https://www.hs-osnabrueck.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Applied Computer Science", "MSc Systems Engineering", "MSc Electrical Engineering", "MSc Agribusiness Management", "MSc Management and Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 380,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Lower Saxony Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Volkswagen", "Meyer Werft", "Nobilia", "Boge Compressors", "Karmann"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 86
+    },
+    "description": "Applied sciences university in Lower Saxony with strong agricultural tech and mechanical engineering. Good for students interested in food tech, agricultural informatics, or general engineering. Affordable small-city living with good industry access.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Niederrhein",
+    "name_german": "Hochschule Niederrhein – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Krefeld",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.hs-niederrhein.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science and Information Technology", "MSc Electrical Engineering", "MSc Design Informatics", "MSc Textile and Clothing Technology", "MSc Engineering Management"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter", "uni-assist application"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 295,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "NRW Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Evonik", "Lanxess", "3M Germany", "Metro AG"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 85
+    },
+    "description": "Applied sciences university in the lower Rhine region with campuses in Krefeld and Mönchengladbach. Strong in textile technology, chemistry, and engineering informatics. Close to Düsseldorf and within NRW's industrial corridor. Practical focus with small class sizes.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Mannheim",
+    "name_german": "Hochschule Mannheim – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Mannheim",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-mannheim.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechatronics", "MSc Information Technology", "MSc Biotechnology"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 184,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["SAP", "BASF", "Roche", "ABB", "John Deere Germany"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 88
+    },
+    "description": "Applied sciences university in the Rhine-Neckar tech corridor. Located steps away from SAP and surrounded by chemical and pharmaceutical giants. Strong engineering and CS programs with intensive industry cooperation. Good alternative to Mannheim University for applied tech.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Augsburg",
+    "name_german": "Hochschule Augsburg – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Augsburg",
+    "state": "Bavaria",
+    "website": "https://www.hs-augsburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Mechanical Engineering", "MSc Business Informatics", "MSc Entrepreneurship and Innovation"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["MAN", "KUKA", "Fujitsu Germany", "Osram", "Ledvance"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 87
+    },
+    "description": "Bavaria's applied sciences university in Augsburg, complementing the nearby Universität Augsburg. Strong in mechanical engineering, CS, and robotics thanks to KUKA Robotics' local presence. Good for students wanting practical tech education in Bavaria at lower cost than Munich.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Technische Hochschule Ingolstadt",
+    "name_german": "Technische Hochschule Ingolstadt",
+    "type": "public_applied",
+    "city": "Ingolstadt",
+    "state": "Bavaria",
+    "website": "https://www.thi.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Autonomous Driving Systems", "MSc Applied Research", "MSc Electrical Engineering", "MSc Computer Science", "MSc Mobility Management"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "AUDI AG Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Audi", "Cariad", "Aisys", "AKKA Technologies", "Bertrandt"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 93
+    },
+    "description": "Applied sciences university in Audi's hometown Ingolstadt. Unique MSc in Autonomous Driving Systems — one of the few dedicated programs globally. Deep partnership with Audi AG and its spin-offs. Perfect for CS/AI students passionate about automotive tech and self-driving vehicles.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "name_german": "Technische Hochschule Nürnberg Georg Simon Ohm",
+    "type": "public_applied",
+    "city": "Nuremberg",
+    "state": "Bavaria",
+    "website": "https://www.th-nuernberg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Applied Mathematics", "MSc Information Systems", "MSc Automation and Robotics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 144,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bavarian State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Schaeffler", "GfK", "Diehl Aviation", "MAN"],
+      "avg_starting_salary_eur": 47000,
+      "placement_rate_pct": 89
+    },
+    "description": "Bavaria's largest applied sciences university named after physicist Georg Simon Ohm. Located in Nuremberg, one of Bavaria's major tech cities. Strong in automation, robotics, and electrical engineering. Siemens' global headquarters is in Nuremberg.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule für Technik Stuttgart",
+    "name_german": "Hochschule für Technik Stuttgart",
+    "type": "public_applied",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hft-stuttgart.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Surveying and Geomatics", "MSc Photogrammetry and Geoinformation", "MSc Infrastructure Planning", "MSc Information Technology"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 204,
+    "living_cost_eur_month": 950,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Baden-Württemberg Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Daimler", "Bosch", "Robert Bosch GmbH", "Zeiss", "SEW-Eurodrive"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 87
+    },
+    "description": "Specialized technical university of applied sciences in Stuttgart focused on computer science, geomatics, and infrastructure. Unique in Germany for its depth in photogrammetry and geoinformation. Located in Stuttgart's tech hub with excellent employer access.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Koblenz",
+    "name_german": "Hochschule Koblenz",
+    "type": "public_applied",
+    "city": "Koblenz",
+    "state": "Rhineland-Palatinate",
+    "website": "https://www.hs-koblenz.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Business Informatics", "MSc Environmental Engineering", "MSc Construction Management", "MSc Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 250,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Rhineland-Palatinate Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Andritz", "Stabilus", "Siemens", "Hochwald Foods", "Thales"],
+      "avg_starting_salary_eur": 43000,
+      "placement_rate_pct": 85
+    },
+    "description": "Applied sciences university at the confluence of Rhine and Moselle rivers. Campuses in Koblenz and Remagen. Good CS and engineering programs with affordable small-city living. Easy access to Frankfurt and Cologne via rail.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Bremen",
+    "name_german": "Hochschule Bremen – City University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Bremen",
+    "state": "Bremen",
+    "website": "https://www.hs-bremen.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc International Studies in Engineering", "MSc Business Informatics", "MSc Systems Engineering"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 360,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Bremen State Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "Mercedes-Benz Bremen", "BLG Logistics", "Weser-Wind", "OHB Systems"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 86
+    },
+    "description": "Applied sciences university in the port city of Bremen. Strong aerospace connections via Airbus Bremen. The 'International Studies in Engineering' MSc is taught entirely in English and designed for international students. Space technology programs leverage OHB Systems proximity.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule RheinMain",
+    "name_german": "Hochschule RheinMain – University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Wiesbaden",
+    "state": "Hesse",
+    "website": "https://www.hs-rm.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Applied Informatics", "MSc Engineering and Management", "MSc Electrical Engineering", "MSc Business Informatics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 290,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Hessenstipendium"],
+    "career_prospects": {
+      "top_employers": ["Fresenius", "SCA", "Deutsche Telekom", "Frankfurt Airport", "Merck KGaA"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 87
+    },
+    "description": "Applied sciences university in the Rhine-Main region with campuses in Wiesbaden and Rüsselsheim. Excellent proximity to Frankfurt Airport and banking sector. Strong applied informatics and engineering programs. Good gateway to the Frankfurt tech and finance ecosystem.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Jade Hochschule",
+    "name_german": "Jade Hochschule – Wilhelmshaven/Oldenburg/Elsfleth",
+    "type": "public_applied",
+    "city": "Wilhelmshaven",
+    "state": "Lower Saxony",
+    "website": "https://www.jade-hs.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Engineering Management", "MSc Geomatics", "MSc Offshore and Coastal Engineering", "MSc Information Technology"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": true,
+      "other": ["APS certificate", "Bachelor degree in related field", "Motivation letter"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 380,
+    "living_cost_eur_month": 700,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["DAAD", "Deutschlandstipendium", "Lower Saxony Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens Wind Power", "EWE", "Volkswagen", "Naval Vessels", "Offshore companies"],
+      "avg_starting_salary_eur": 43000,
+      "placement_rate_pct": 84
+    },
+    "description": "Applied sciences university in northern Germany's coast with unique strengths in offshore engineering, geomatics, and maritime technology. Very affordable living costs. Growing wind energy and offshore tech sector offers interesting career paths for engineering students.",
+    "data_source": "curated"
+  }
+]

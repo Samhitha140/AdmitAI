@@ -1,0 +1,881 @@
+[
+  {
+    "name": "TU Munich",
+    "name_german": "Technische Universität München",
+    "type": "public_research",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.tum.de",
+    "ranking_qs": 37,
+    "ranking_the": 30,
+    "description": "Germany's top technical university, consistently ranked among Europe's best. Strong in CS, AI, robotics, and engineering. The TUM School of Computation, Information and Technology offers world-class MSc programs.",
+    "programs": [
+      {"name": "MSc Informatics", "language": "English", "duration_months": 24},
+      {"name": "MSc Data Engineering and Analytics", "language": "English", "duration_months": 24},
+      {"name": "MSc Robotics, Cognition, Intelligence", "language": "English", "duration_months": 24},
+      {"name": "MSc Electrical Engineering", "language": "English/German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 8.5/10 (or equivalent) — highly competitive",
+      "language": "IELTS 7.0 or TOEFL 95 for English programs",
+      "gre": "GRE not required",
+      "aps": "APS certificate required for Indian applicants",
+      "degree": "BSc in CS, Maths, Engineering or closely related field"
+    },
+    "deadlines": {"winter": "2025-05-31", "summer": "2024-11-30"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 145,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "german_required": false,
+    "english_programs": true,
+    "scholarships": [
+      {"name": "Deutschland Stipendium", "amount_eur": 300, "per": "month"},
+      {"name": "TUM Graduate School Support", "amount_eur": 0, "per": "varies"}
+    ],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "Google Munich", "MAN", "Linde"],
+      "avg_salary_eur": 58000,
+      "employment_rate_pct": 96
+    },
+    "notable_faculty": ["Prof. Daniel Cremers (Computer Vision)", "Prof. Bernhard Scholkopf (ML)"],
+    "research_groups": ["Machine Learning", "Computer Vision", "Robotics and AI", "Data Science"],
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TU_Muenchen_Logo.svg/1200px-TU_Muenchen_Logo.svg.png",
+    "data_source": "curated"
+  },
+  {
+    "name": "RWTH Aachen University",
+    "name_german": "Rheinisch-Westfälische Technische Hochschule Aachen",
+    "type": "public_research",
+    "city": "Aachen",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.rwth-aachen.de",
+    "ranking_qs": 106,
+    "ranking_the": 78,
+    "description": "One of Europe's leading technical universities, especially strong in mechanical engineering, CS, and materials science. Part of the TU9 alliance.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 24},
+      {"name": "MSc Mechanical Engineering", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Electrical Engineering", "language": "English/German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.5/10",
+      "language": "IELTS 6.5 or TOEFL 90 (English programs); TestDaF TDN4 for German programs",
+      "aps": "APS required for Indian applicants",
+      "degree": "Relevant BSc with strong maths background"
+    },
+    "deadlines": {"winter": "2025-06-15", "summer": "2024-12-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "german_required": false,
+    "english_programs": true,
+    "scholarships": [{"name": "Deutschland Stipendium", "amount_eur": 300, "per": "month"}],
+    "career_prospects": {"top_employers": ["Ford Aachen", "Siemens", "Infineon", "Bosch"], "avg_salary_eur": 54000, "employment_rate_pct": 94},
+    "notable_faculty": ["Prof. Stefan Decker (Web Science)", "Prof. Gerhard Lakemeyer (AI)"],
+    "research_groups": ["AI and Machine Learning", "Software Engineering", "High Performance Computing"],
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Berlin",
+    "name_german": "Technische Universität Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.tu.berlin",
+    "ranking_qs": 154,
+    "ranking_the": 201,
+    "description": "Berlin's primary technical university with strong CS, AI, and electrical engineering programs. Benefits from Berlin's vibrant tech startup scene.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 24},
+      {"name": "MSc Electrical Engineering", "language": "German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 for English programs; DSH-2 or TestDaF TDN4 for German",
+      "aps": "APS required",
+      "degree": "BSc in relevant field"
+    },
+    "deadlines": {"winter": "2025-07-01", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 314,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "uni_assist_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Zalando", "SAP", "Siemens", "Bayer"], "avg_salary_eur": 52000, "employment_rate_pct": 93},
+    "research_groups": ["Machine Learning", "Distributed Systems", "Computer Vision"],
+    "data_source": "curated"
+  },
+  {
+    "name": "KIT Karlsruhe",
+    "name_german": "Karlsruher Institut für Technologie",
+    "type": "public_research",
+    "city": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "website": "https://www.kit.edu",
+    "ranking_qs": 119,
+    "ranking_the": 101,
+    "description": "A merger of Karlsruhe University and a national research centre. Excellent in CS, physics, and engineering. Strong research culture.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Information Systems Engineering", "language": "English", "duration_months": 24},
+      {"name": "MSc Mechanical Engineering", "language": "German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 178,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "uni_assist_required": false,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SAP", "Bosch", "ABB", "dm"], "avg_salary_eur": 55000, "employment_rate_pct": 95},
+    "research_groups": ["AI", "Robotics", "Software Engineering", "HCI"],
+    "data_source": "curated"
+  },
+  {
+    "name": "LMU Munich",
+    "name_german": "Ludwig-Maximilians-Universität München",
+    "type": "public_research",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.lmu.de",
+    "ranking_qs": 54,
+    "ranking_the": 32,
+    "description": "One of Germany's most prestigious research universities. Strong in AI, statistics, cognitive science, and bioinformatics. Excellence Initiative winner.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 24},
+      {"name": "MSc Bioinformatics", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 8.0/10",
+      "language": "IELTS 7.0 or TOEFL 94",
+      "aps": "APS required for Indian applicants",
+      "degree": "BSc in CS, Maths, Statistics, or related"
+    },
+    "deadlines": {"winter": "2025-05-15", "summer": "2024-11-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 145,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["MBB Consulting", "Google Munich", "Allianz", "BMW"], "avg_salary_eur": 57000, "employment_rate_pct": 95},
+    "research_groups": ["AI and NLP", "Statistics and Data Science", "Bioinformatics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Heidelberg University",
+    "name_german": "Ruprecht-Karls-Universität Heidelberg",
+    "type": "public_research",
+    "city": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-heidelberg.de",
+    "ranking_qs": 87,
+    "ranking_the": 42,
+    "description": "Germany's oldest university (1386). Exceptional for sciences, maths, and bioinformatics. Excellence Initiative winner with strong international reputation.",
+    "programs": [
+      {"name": "MSc Scientific Computing", "language": "English", "duration_months": 24},
+      {"name": "MSc Mathematics", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Bioinformatics", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 8.0/10 — very competitive",
+      "language": "IELTS 6.5",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-05-15", "summer": "2024-11-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 191,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SAP", "BASF", "Roche", "Heidelberg Materials"], "avg_salary_eur": 54000, "employment_rate_pct": 93},
+    "research_groups": ["Computational Biology", "Scientific Computing", "Maths and Data Science"],
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Darmstadt",
+    "name_german": "Technische Universität Darmstadt",
+    "type": "public_research",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "website": "https://www.tu-darmstadt.de",
+    "ranking_qs": 301,
+    "ranking_the": 201,
+    "description": "Known for autonomous systems, AI, and cybersecurity. Part of TU9. Strong industry ties with the Rhine-Main tech corridor (SAP, Software AG).",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Autonomous Systems", "language": "English", "duration_months": 24},
+      {"name": "MSc IT Security", "language": "English/German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-01", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 278,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SAP", "Software AG", "Continental", "Merck"], "avg_salary_eur": 53000, "employment_rate_pct": 94},
+    "research_groups": ["Autonomous Systems", "AI and ML", "Cybersecurity", "Robotics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Stuttgart",
+    "name_german": "Universität Stuttgart",
+    "type": "public_research",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-stuttgart.de",
+    "ranking_qs": 351,
+    "ranking_the": 251,
+    "description": "Part of TU9. Strong in engineering, simulation, and intelligent systems. Located in the heart of Germany's automotive industry (Mercedes, Porsche, Bosch).",
+    "programs": [
+      {"name": "MSc Computational Mechanics", "language": "English", "duration_months": 24},
+      {"name": "MSc Intelligent Systems", "language": "English", "duration_months": 24},
+      {"name": "MSc Software Engineering", "language": "German/English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 198,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Mercedes-Benz", "Porsche", "Bosch", "Daimler"], "avg_salary_eur": 55000, "employment_rate_pct": 95},
+    "research_groups": ["Simulation", "Intelligent Systems", "Software Engineering"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Saarland University",
+    "name_german": "Universität des Saarlandes",
+    "type": "public_research",
+    "city": "Saarbrücken",
+    "state": "Saarland",
+    "website": "https://www.uni-saarland.de",
+    "ranking_qs": 451,
+    "ranking_the": 301,
+    "description": "Home to the Max Planck Institute for Informatics and CISPA Helmholtz Center for Information Security. Exceptional for CS research, especially algorithms, programming languages, and security.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Data Science and Artificial Intelligence", "language": "English", "duration_months": 24},
+      {"name": "MSc Cybersecurity", "language": "English", "duration_months": 24},
+      {"name": "MSc Bioinformatics", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TOEFL 88",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-05-31", "summer": "2024-11-30"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 288,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SAP", "CISPA", "Max Planck", "Luxoft"], "avg_salary_eur": 50000, "employment_rate_pct": 92},
+    "research_groups": ["Algorithms", "Programming Languages", "Security", "AI"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Freiburg",
+    "name_german": "Albert-Ludwigs-Universität Freiburg",
+    "type": "public_research",
+    "city": "Freiburg",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-freiburg.de",
+    "ranking_qs": 201,
+    "ranking_the": 151,
+    "description": "Excellence Initiative university. Strong in autonomous robotics, machine learning, and neurorobotics. Home to the BrainLinks-BrainTools Centre.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Autonomous Systems", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.5/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 1500,
+    "semester_fee_eur": 160,
+    "living_cost_eur_month": 900,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Sick AG", "Bosch", "Festo", "Trumpf"], "avg_salary_eur": 51000, "employment_rate_pct": 93},
+    "research_groups": ["Autonomous Intelligent Systems", "Machine Learning", "Neurorobotics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Hamburg",
+    "name_german": "Universität Hamburg",
+    "type": "public_research",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.uni-hamburg.de",
+    "ranking_qs": 251,
+    "ranking_the": 201,
+    "description": "Excellence Initiative university. Strong in intelligent systems, cognitive computing, and data science. Hamburg is Germany's second-largest city with a thriving tech and logistics sector.",
+    "programs": [
+      {"name": "MSc Intelligent Adaptive Systems", "language": "English", "duration_months": 24},
+      {"name": "MSc Computer Science", "language": "German", "duration_months": 24},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 for English programs",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 380,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Airbus", "Hapag-Lloyd", "XING", "About You"], "avg_salary_eur": 52000, "employment_rate_pct": 92},
+    "research_groups": ["Intelligent Systems", "NLP", "Computer Vision"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Leibniz University Hannover",
+    "name_german": "Gottfried Wilhelm Leibniz Universität Hannover",
+    "type": "public_research",
+    "city": "Hannover",
+    "state": "Lower Saxony",
+    "website": "https://www.uni-hannover.de",
+    "ranking_qs": 501,
+    "ranking_the": 401,
+    "description": "Part of TU9. Strong in AI, data analytics, and engineering. Located near major companies like Continental, TUI, and VW.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Data Analytics", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 390,
+    "living_cost_eur_month": 800,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Continental", "TUI", "Volkswagen", "Hannover Re"], "avg_salary_eur": 50000, "employment_rate_pct": 91},
+    "research_groups": ["AI", "Software Engineering", "Data Analytics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Bonn",
+    "name_german": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "type": "public_research",
+    "city": "Bonn",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.uni-bonn.de",
+    "ranking_qs": 201,
+    "ranking_the": 151,
+    "description": "Excellence Initiative university. Exceptional for maths, physics, and AI. Strong connections to the Fraunhofer IAIS and Bonn-Aachen International Center for Information Technology (B-IT).",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Life Science Informatics", "language": "English", "duration_months": 24},
+      {"name": "MSc Mathematics", "language": "English/German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.5/10",
+      "language": "IELTS 6.5",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-06-01", "summer": "2024-12-01"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 336,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Deutsche Telekom", "Fraunhofer", "DHL", "Deutsche Post"], "avg_salary_eur": 52000, "employment_rate_pct": 93},
+    "research_groups": ["AI and ML", "Maths and Foundations", "Life Science Informatics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "TU Dresden",
+    "name_german": "Technische Universität Dresden",
+    "type": "public_research",
+    "city": "Dresden",
+    "state": "Saxony",
+    "website": "https://tu-dresden.de",
+    "ranking_qs": 301,
+    "ranking_the": 251,
+    "description": "Excellence Initiative university and part of TU9. Strong in CS, AI, and distributed systems. The Barkhausen Institut and the Centre for Tactile Internet are here.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Distributed Systems Engineering", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 6.5 or TestDaF TDN4",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-01", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 302,
+    "living_cost_eur_month": 750,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Infineon", "T-Systems", "Globalfoundries", "SAP"], "avg_salary_eur": 50000, "employment_rate_pct": 92},
+    "research_groups": ["Distributed Systems", "AI", "Networks"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Mannheim",
+    "name_german": "Universität Mannheim",
+    "type": "public_research",
+    "city": "Mannheim",
+    "state": "Baden-Württemberg",
+    "website": "https://www.uni-mannheim.de",
+    "ranking_qs": 501,
+    "ranking_the": 401,
+    "description": "Germany's top business and economics university. Exceptional for data science, business analytics, and CS with a business focus. SAP is headquartered nearby.",
+    "programs": [
+      {"name": "MSc Data Science", "language": "English", "duration_months": 24},
+      {"name": "MSc Business Informatics", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Computer Science", "language": "German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.5/10",
+      "language": "IELTS 7.0 for English programs",
+      "aps": "APS required",
+      "gmat": "GMAT may strengthen business-track applications"
+    },
+    "deadlines": {"winter": "2025-05-31", "summer": "2024-11-30"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 192,
+    "living_cost_eur_month": 850,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SAP", "McKinsey", "BCG", "Bosch"], "avg_salary_eur": 56000, "employment_rate_pct": 96},
+    "research_groups": ["Data and Web Science", "Business Analytics", "Information Systems"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Freie Universität Berlin",
+    "name_german": "Freie Universität Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.fu-berlin.de",
+    "ranking_qs": 118,
+    "ranking_the": 101,
+    "description": "Excellence Initiative university. Strong in CS theory, bioinformatics, and cognitive science. Part of the Berlin University Alliance with HU Berlin and TU Berlin.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Bioinformatics", "language": "English", "duration_months": 24},
+      {"name": "MSc Cognitive Science", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.5/10",
+      "language": "IELTS 6.5",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-06-15", "summer": "2024-12-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 323,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Zalando", "Delivery Hero", "Bayer", "Charité"], "avg_salary_eur": 51000, "employment_rate_pct": 92},
+    "research_groups": ["Bioinformatics", "AI", "Cognitive Science"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Humboldt University Berlin",
+    "name_german": "Humboldt-Universität zu Berlin",
+    "type": "public_research",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.hu-berlin.de",
+    "ranking_qs": 120,
+    "ranking_the": 80,
+    "description": "Excellence Initiative university. Known for strong research fundamentals. Part of the Berlin University Alliance. Good for CS theory, maths, and data science.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "German", "duration_months": 24},
+      {"name": "MSc Statistics", "language": "English/German", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "DSH-2 or TestDaF TDN4 for German programs; IELTS 6.5 for English",
+      "aps": "APS required"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 323,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "english_programs": false,
+    "german_required": true,
+    "german_level": "B2",
+    "career_prospects": {"top_employers": ["Zalando", "BCG", "Siemens", "Bayer"], "avg_salary_eur": 51000, "employment_rate_pct": 91},
+    "research_groups": ["Maths and CS", "Statistics", "Computational Science"],
+    "data_source": "curated"
+  },
+  {
+    "name": "HTW Berlin",
+    "name_german": "Hochschule für Technik und Wirtschaft Berlin",
+    "type": "public_applied",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.htw-berlin.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "One of Germany's largest applied sciences universities. Practical, industry-oriented CS and engineering programs. Strong industry placements in Berlin's tech ecosystem.",
+    "programs": [
+      {"name": "MSc Applied Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Business and Computing", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10",
+      "language": "IELTS 6.0 or TestDaF TDN3",
+      "aps": "APS required",
+      "work_exp": "Practical experience valued"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 310,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Siemens", "Deutsche Bahn", "SAP", "Bosch"], "avg_salary_eur": 48000, "employment_rate_pct": 91},
+    "research_groups": ["Applied AI", "Business Computing", "Embedded Systems"],
+    "data_source": "curated"
+  },
+  {
+    "name": "HAW Hamburg",
+    "name_german": "Hochschule für Angewandte Wissenschaften Hamburg",
+    "type": "public_applied",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.haw-hamburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Hamburg's largest applied sciences university. Strong practical CS, engineering, and IT security programs. Excellent industry network in Hamburg's port/logistics/tech sector.",
+    "programs": [
+      {"name": "MSc Applied Computer Science", "language": "German/English", "duration_months": 24},
+      {"name": "MSc Information Engineering", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10",
+      "language": "IELTS 6.0",
+      "aps": "APS required",
+      "work_exp": "Practical semester or internship experience preferred"
+    },
+    "deadlines": {"winter": "2025-07-15", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 380,
+    "living_cost_eur_month": 1000,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Airbus", "Hamburg Port Authority", "Tchibo", "OTTO"], "avg_salary_eur": 47000, "employment_rate_pct": 91},
+    "research_groups": ["IT Security", "Applied AI", "Logistics IT"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule München",
+    "name_german": "Hochschule München University of Applied Sciences",
+    "type": "public_applied",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.hm.edu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Munich's applied sciences university. Excellent industry connections in Bavaria's tech/automotive corridor. Known for very practical, job-ready programs.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English/German", "duration_months": 24},
+      {"name": "MSc Applied Research in Engineering Sciences", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10",
+      "language": "IELTS 6.0",
+      "aps": "APS required",
+      "work_exp": "Practical work experience preferred"
+    },
+    "deadlines": {"winter": "2025-07-01", "summer": "2025-01-15"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 152,
+    "living_cost_eur_month": 1200,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["BMW", "MAN", "Siemens", "Infineon"], "avg_salary_eur": 50000, "employment_rate_pct": 94},
+    "research_groups": ["Applied AI", "Embedded Systems", "Computer Vision"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Constructor University Bremen",
+    "name_german": "Constructor University Bremen",
+    "type": "private",
+    "city": "Bremen",
+    "state": "Bremen",
+    "website": "https://constructor.university",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Germany's most international private university (formerly Jacobs University). 100+ nationalities on campus. English-only instruction. Strong CS, data science, and engineering programs. Residential campus model.",
+    "programs": [
+      {"name": "MSc Data Engineering", "language": "English", "duration_months": 24},
+      {"name": "MSc Electrical and Computer Engineering", "language": "English", "duration_months": 24},
+      {"name": "MSc Computer Science", "language": "English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10 — moderately competitive",
+      "language": "IELTS 6.5 or TOEFL 90",
+      "aps": "APS not required",
+      "gre": "GRE recommended but not required"
+    },
+    "deadlines": {"winter": "2025-05-31", "summer": null},
+    "tuition_eur_semester": 10000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 800,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "english_programs": true,
+    "scholarships": [
+      {"name": "Constructor Merit Scholarship", "amount_eur": 5000, "per": "semester"},
+      {"name": "DAAD Scholarship", "amount_eur": 850, "per": "month"}
+    ],
+    "career_prospects": {"top_employers": ["Airbus", "SAP", "Siemens", "Amazon"], "avg_salary_eur": 52000, "employment_rate_pct": 90},
+    "research_groups": ["Data Science", "Computational Science", "CS and Engineering"],
+    "data_source": "curated"
+  },
+  {
+    "name": "IU International University of Applied Sciences",
+    "name_german": "IU Internationale Hochschule",
+    "type": "private",
+    "city": "Bad Honnef",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.iu.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Germany's largest private university with 100,000+ students. Flexible online and on-campus programs. Lower barrier to entry. Fully state-accredited. Good for working professionals and international students seeking a more accessible path.",
+    "programs": [
+      {"name": "MSc Artificial Intelligence", "language": "English", "duration_months": 18},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 18},
+      {"name": "MSc Computer Science", "language": "English", "duration_months": 18},
+      {"name": "MSc Cybersecurity", "language": "English", "duration_months": 18}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.0/10",
+      "language": "IELTS 6.0 or TOEFL 80",
+      "aps": "APS not required",
+      "work_exp": "Some work experience preferred"
+    },
+    "deadlines": {"winter": "2025-10-01", "summer": "2025-03-01"},
+    "tuition_eur_semester": 4000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 800,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "english_programs": true,
+    "scholarships": [{"name": "IU Excellence Scholarship", "amount_eur": 3000, "per": "year"}],
+    "career_prospects": {"top_employers": ["Various mid-size tech firms", "Startups", "Consulting"], "avg_salary_eur": 45000, "employment_rate_pct": 88},
+    "research_groups": ["Applied AI", "Data Science", "Digital Business"],
+    "data_source": "curated"
+  },
+  {
+    "name": "SRH Berlin University of Applied Sciences",
+    "name_german": "SRH Berlin University of Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.srh-berlin.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "State-accredited private university in Berlin. English-taught programs in CS, data science, and engineering. Flexible block learning model. Good for students who want Berlin's startup scene with more accessible entry requirements.",
+    "programs": [
+      {"name": "MSc Computer Science", "language": "English", "duration_months": 18},
+      {"name": "MSc Data Science", "language": "English", "duration_months": 18},
+      {"name": "MSc Robotics and Intelligent Systems", "language": "English", "duration_months": 18}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10",
+      "language": "IELTS 6.0",
+      "aps": "APS not required"
+    },
+    "deadlines": {"winter": "2025-09-01", "summer": "2025-02-01"},
+    "tuition_eur_semester": 4500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "english_programs": true,
+    "scholarships": [{"name": "SRH Excellence Award", "amount_eur": 2000, "per": "year"}],
+    "career_prospects": {"top_employers": ["Berlin startups", "Siemens", "Volkswagen", "SAP"], "avg_salary_eur": 46000, "employment_rate_pct": 88},
+    "research_groups": ["Applied AI", "Robotics", "Smart Systems"],
+    "data_source": "curated"
+  },
+  {
+    "name": "CODE University of Applied Sciences",
+    "name_german": "CODE University of Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://code.berlin",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Project-based learning university in Berlin focused on software engineering, product management, and interaction design. Very hands-on and startup-oriented. State-accredited.",
+    "programs": [
+      {"name": "MSc Software Engineering", "language": "English", "duration_months": 18},
+      {"name": "MSc Interaction Design", "language": "English", "duration_months": 18}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.0/10",
+      "language": "IELTS 6.0",
+      "aps": "APS not required",
+      "portfolio": "Portfolio or project required for some programs"
+    },
+    "deadlines": {"winter": "2025-08-01", "summer": "2025-02-01"},
+    "tuition_eur_semester": 5250,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Berlin startups", "Zalando", "N26", "HelloFresh"], "avg_salary_eur": 48000, "employment_rate_pct": 89},
+    "research_groups": ["Software Engineering", "UX/Design", "Product"],
+    "data_source": "curated"
+  },
+  {
+    "name": "ESMT Berlin",
+    "name_german": "European School of Management and Technology",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://esmt.berlin",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Germany's top private business school backed by 25 German companies. State-accredited. Strong for tech management, digital innovation, and data-driven decision making.",
+    "programs": [
+      {"name": "MSc Management", "language": "English", "duration_months": 15},
+      {"name": "MSc Innovation and Entrepreneurship", "language": "English", "duration_months": 15}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 7.0 or TOEFL 100",
+      "aps": "APS not required",
+      "gmat": "GMAT 600+ preferred"
+    },
+    "deadlines": {"winter": "2025-06-01"},
+    "tuition_eur_semester": 17500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "english_programs": true,
+    "scholarships": [{"name": "ESMT Merit Scholarship", "amount_eur": 10000, "per": "year"}],
+    "career_prospects": {"top_employers": ["McKinsey", "BCG", "Bain", "Siemens", "Deutsche Bank"], "avg_salary_eur": 65000, "employment_rate_pct": 96},
+    "research_groups": ["Digital Innovation", "Management Science"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Frankfurt School of Finance & Management",
+    "name_german": "Frankfurt School of Finance & Management",
+    "type": "private",
+    "city": "Frankfurt",
+    "state": "Hesse",
+    "website": "https://www.frankfurt-school.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "One of Europe's top business schools. Triple-accredited (AACSB, EQUIS, AMBA). Excellent for fintech, data science for finance, and quantitative finance.",
+    "programs": [
+      {"name": "MSc Data Analytics for Finance", "language": "English", "duration_months": 18},
+      {"name": "MSc Finance", "language": "English", "duration_months": 18}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 7.0/10",
+      "language": "IELTS 7.0 or TOEFL 100",
+      "aps": "APS not required",
+      "gmat": "GMAT 650+ preferred"
+    },
+    "deadlines": {"winter": "2025-07-01"},
+    "tuition_eur_semester": 16000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1100,
+    "aps_required": false,
+    "english_programs": true,
+    "scholarships": [{"name": "Frankfurt School Scholarship", "amount_eur": 8000, "per": "year"}],
+    "career_prospects": {"top_employers": ["Deutsche Bank", "Goldman Sachs", "ECB", "BlackRock"], "avg_salary_eur": 70000, "employment_rate_pct": 97},
+    "research_groups": ["Fintech", "Quantitative Finance", "Data Analytics"],
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Europe for Applied Sciences",
+    "name_german": "University of Europe for Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.ue-germany.com",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Creative and tech-focused private university with campuses in Berlin, Hamburg, and Potsdam. State-accredited. Strong for UX, digital design, and tech entrepreneurship.",
+    "programs": [
+      {"name": "MSc User Experience Design", "language": "English", "duration_months": 18},
+      {"name": "MSc Digital Business", "language": "English", "duration_months": 18}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.0/10",
+      "language": "IELTS 6.0",
+      "aps": "APS not required"
+    },
+    "deadlines": {"winter": "2025-09-01", "summer": "2025-02-01"},
+    "tuition_eur_semester": 5000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["Creative agencies", "Startups", "Tech companies"], "avg_salary_eur": 45000, "employment_rate_pct": 87},
+    "research_groups": ["UX Design", "Digital Business"],
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Furtwangen University",
+    "name_german": "Hochschule Furtwangen University",
+    "type": "public_applied",
+    "city": "Furtwangen",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hs-furtwangen.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "description": "Specialised applied sciences university consistently ranked #1 in Germany for CS (CHE ranking). Strong practical programs in AI, IoT, and digital transformation.",
+    "programs": [
+      {"name": "MSc AI and Data Science", "language": "English", "duration_months": 24},
+      {"name": "MSc Digital Health Management", "language": "German/English", "duration_months": 24}
+    ],
+    "admission_requirements": {
+      "cgpa": "Minimum 6.5/10",
+      "language": "IELTS 6.0",
+      "aps": "APS required",
+      "work_exp": "Practical experience strongly valued"
+    },
+    "deadlines": {"winter": "2025-07-31", "summer": "2025-01-31"},
+    "tuition_eur_semester": 0,
+    "semester_fee_eur": 148,
+    "living_cost_eur_month": 700,
+    "aps_required": true,
+    "english_programs": true,
+    "career_prospects": {"top_employers": ["SICK", "Schaeffler", "SEW-Eurodrive", "Lapp Group"], "avg_salary_eur": 50000, "employment_rate_pct": 95},
+    "research_groups": ["AI and Data Science", "IoT", "Health Informatics"],
+    "data_source": "curated"
+  }
+]

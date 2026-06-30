@@ -1,0 +1,20 @@
+{
+  "finetuned-mistral": {
+    "motivation": 4.0,
+    "tone": 3.0,
+    "fit": 5.0,
+    "structure": 3.0
+  },
+  "base-mistral": {
+    "motivation": 4.0,
+    "tone": 3.0,
+    "fit": 5.0,
+    "structure": 3.0
+  },
+  "gpt-4o": {
+    "motivation": 4.0,
+    "tone": 3.0,
+    "fit": 5.0,
+    "structure": 3.0
+  }
+}

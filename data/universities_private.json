@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Constructor University Bremen",
+    "name_german": "Constructor University Bremen",
+    "type": "private",
+    "city": "Bremen",
+    "state": "Bremen",
+    "website": "https://constructor.university",
+    "ranking_qs": 801,
+    "ranking_the": 601,
+    "programs": ["MSc Computer Science", "MSc Data Engineering", "MSc Electrical Engineering", "MSc Biochemistry and Cell Biology", "MSc Physics"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "2 recommendation letters", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-05-31",
+      "summer": "2024-11-30"
+    },
+    "tuition_eur_semester": 12000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Merit scholarships", "Need-based aid", "DAAD", "Constructor Excellence Scholarship"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Mercedes-Benz", "Deutsche Telekom", "Airbus", "BCG"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 90
+    },
+    "description": "Germany's most international private research university with over 80% international students and 100% English-taught programs. Offers a liberal arts and sciences foundation with strong STEM research focus.",
+    "data_source": "curated"
+  },
+  {
+    "name": "IU International University of Applied Sciences",
+    "name_german": "IU Internationale Hochschule",
+    "type": "private",
+    "city": "Bad Honnef",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.iu.org",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Artificial Intelligence", "MSc Computer Science", "MSc Data Science", "MSc Cyber Security", "MSc Robotics", "MSc Machine Learning", "MSc Software Engineering", "MSc IT Project Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 80,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": "2025-02-28"
+    },
+    "tuition_eur_semester": 4545,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 800,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["IU Merit Scholarship", "Early Bird Discount", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Accenture", "IBM", "T-Systems", "Capgemini", "Deloitte"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 85
+    },
+    "description": "Germany's largest private university with over 100,000 students across multiple campuses and online. Offers flexible study modes (on-campus, online, dual) with a strong focus on applied technology and industry connections. State-accredited by the German Accreditation Council.",
+    "data_source": "curated"
+  },
+  {
+    "name": "CODE University of Applied Sciences Berlin",
+    "name_german": "CODE University of Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://code.berlin",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Software Engineering", "BSc Interaction Design", "BSc Product Management", "MSc Digital Transformation"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 85,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Portfolio or coding challenge", "Statement of Purpose", "Interview", "Bachelor degree in related field"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["CODE Scholarship", "Social Mobility Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Zalando", "N26", "Delivery Hero", "HelloFresh", "SoundCloud"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 92
+    },
+    "description": "Project-based, interdisciplinary university in Berlin's tech hub focusing on software engineering, product management, and interaction design. Strong startup culture with project-based learning from day one. Excellent connections to Berlin's booming tech ecosystem.",
+    "data_source": "curated"
+  },
+  {
+    "name": "SRH Berlin University of Applied Sciences",
+    "name_german": "SRH Berlin University of Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.srh-berlin.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Data Science", "MSc Artificial Intelligence", "MSc Cybersecurity", "MSc International IT Business Management", "MSc Engineering Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 80,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume", "2 recommendation letters"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 5250,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["SRH Excellence Scholarship", "International Student Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Siemens", "Deutsche Bank", "Bosch", "Accenture"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 84
+    },
+    "description": "Part of the SRH University Network, one of Germany's largest private education groups. Offers intensive CORE learning model with strong industry partnerships in Berlin. Compact 3-semester Master's programs designed for efficiency.",
+    "data_source": "curated"
+  },
+  {
+    "name": "SRH Hochschule Heidelberg",
+    "name_german": "SRH Hochschule Heidelberg",
+    "type": "private",
+    "city": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "website": "https://www.srh-hochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Information Technology", "MSc Engineering Management", "MSc Medical Informatics", "MSc Applied Computer Science"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-31"
+    },
+    "tuition_eur_semester": 4750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 900,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["SRH Merit Scholarship", "International Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "ABB", "Heidelberger Druckmaschinen", "BASF", "Roche"],
+      "avg_starting_salary_eur": 45000,
+      "placement_rate_pct": 83
+    },
+    "description": "Located in the historic university city of Heidelberg, SRH Hochschule offers applied sciences programs with strong ties to the Baden-Württemberg tech and pharmaceutical industry. CORE learning model emphasizes competency-based education.",
+    "data_source": "curated"
+  },
+  {
+    "name": "ESMT Berlin",
+    "name_german": "European School of Management and Technology",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://esmt.berlin",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc in Innovation and Entrepreneurship", "MSc in Management", "Full-Time MBA", "MSc in Data Analytics and Decision Sciences"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 100,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Work experience preferred", "GMAT/GRE strongly recommended", "Statement of Purpose", "2 recommendation letters", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-04-30",
+      "summer": null
+    },
+    "tuition_eur_semester": 17500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1100,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["ESMT Scholarship", "Diversity Scholarship", "DAAD", "Women in Tech Scholarship"],
+    "career_prospects": {
+      "top_employers": ["McKinsey", "BCG", "Amazon", "Google", "SAP"],
+      "avg_starting_salary_eur": 70000,
+      "placement_rate_pct": 95
+    },
+    "description": "Founded by 25 leading European companies, ESMT Berlin is a top-ranked business school focused on responsible leadership and innovation. Excellent for tech management, entrepreneurship, and data analytics career paths in the European tech ecosystem.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Frankfurt School of Finance and Management",
+    "name_german": "Frankfurt School of Finance & Management",
+    "type": "private",
+    "city": "Frankfurt am Main",
+    "state": "Hesse",
+    "website": "https://www.frankfurt-school.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc in Applied Data Science", "MSc in Finance", "MSc in Management", "MSc in Blockchain and Digital Assets", "MSc in Computational Finance"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 100,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "GMAT recommended (650+)", "Statement of Purpose", "2 recommendation letters", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-04-15",
+      "summer": null
+    },
+    "tuition_eur_semester": 16250,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1200,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Frankfurt School Scholarship", "DAAD", "Diversity Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Bank", "Goldman Sachs", "BlackRock", "Deloitte", "BCG"],
+      "avg_starting_salary_eur": 72000,
+      "placement_rate_pct": 96
+    },
+    "description": "Triple-accredited (AACSB, EQUIS, AMBA) business school in Europe's financial capital. The MSc in Applied Data Science is particularly strong for students wanting to combine programming skills with finance. Strong fintech and blockchain focus.",
+    "data_source": "curated"
+  },
+  {
+    "name": "WHU Otto Beisheim School of Management",
+    "name_german": "WHU – Otto Beisheim School of Management",
+    "type": "private",
+    "city": "Vallendar",
+    "state": "Rhineland-Palatinate",
+    "website": "https://www.whu.edu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc in Management", "MSc in Entrepreneurship", "MSc in Finance", "MSc in Business Analytics", "MSc in Supply Chain Management"],
+    "admission_requirements": {
+      "min_cgpa": 7.5,
+      "language": "English",
+      "ielts_min": 7.0,
+      "toefl_min": 100,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "GMAT recommended (680+)", "Statement of Purpose", "2 recommendation letters", "Interview", "Work experience preferred"]
+    },
+    "deadlines": {
+      "winter": "2025-03-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 14750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 750,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["WHU Excellence Scholarship", "DAAD", "Diversity Award"],
+    "career_prospects": {
+      "top_employers": ["McKinsey", "BCG", "Amazon", "Bain", "Deutsche Bank"],
+      "avg_starting_salary_eur": 68000,
+      "placement_rate_pct": 97
+    },
+    "description": "Germany's top-ranked private business school, consistently ranking in the Financial Times top European business schools. Strong alumni network and recruiting pipeline to top consultancies and tech companies. Business analytics track suits engineering backgrounds.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Macromedia University of Applied Sciences",
+    "name_german": "Macromedia Hochschule für Medien und Kommunikation",
+    "type": "private",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.macromedia-fachhochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc User Experience Design", "MSc Media and Communication Management", "MSc Digital Media Management", "MSc Media Technology"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Portfolio", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-31"
+    },
+    "tuition_eur_semester": 4900,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1150,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Macromedia Talent Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "ProSiebenSat.1", "Allianz", "Burda Media"],
+      "avg_starting_salary_eur": 42000,
+      "placement_rate_pct": 80
+    },
+    "description": "Specialized media and design university with campuses in Munich, Hamburg, Berlin, Cologne, Stuttgart, and Frankfurt. Strong focus on UX/UI design with connections to Germany's creative and tech industries. Good for CS grads transitioning into product/UX roles.",
+    "data_source": "curated"
+  },
+  {
+    "name": "University of Europe for Applied Sciences",
+    "name_german": "University of Europe for Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.ue-germany.com",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Data Science and Artificial Intelligence", "MSc Cybersecurity", "MSc Digital Business and Transformation", "MSc Computer Science", "MSc Game Design"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume", "Portfolio for design programs"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": "2025-02-28"
+    },
+    "tuition_eur_semester": 5500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["UE Scholarship", "International Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Zalando", "SAP", "Siemens", "Delivery Hero", "Axel Springer"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 82
+    },
+    "description": "Part of the Global University Systems network with campuses in Berlin, Hamburg, Potsdam, and Iserlohn. Strong focus on applied digital skills and industry-relevant education. The AI/Data Science program is growing rapidly with modern curriculum.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Berlin International University of Applied Sciences",
+    "name_german": "Berlin International University of Applied Sciences",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.berlin-international.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc International Business and Entrepreneurship", "MSc Media and Communication Technology", "MSc Sustainable Development Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 4200,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Merit Scholarship", "Early Application Discount", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Siemens", "Deutsche Telekom", "Start-ups", "Consulting firms"],
+      "avg_starting_salary_eur": 40000,
+      "placement_rate_pct": 78
+    },
+    "description": "Small, internationally focused university in Berlin offering English-taught programs. Strong international student community and personalized learning environment. Located in Berlin's vibrant startup ecosystem.",
+    "data_source": "curated"
+  },
+  {
+    "name": "BiTS Business and Information Technology School",
+    "name_german": "BiTS – Business and Information Technology School",
+    "type": "private",
+    "city": "Iserlohn",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.bits-hochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Business and IT", "MSc Digital Management and Marketing", "MSc Sports Business Management", "MSc Media and Entertainment Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-15",
+      "summer": "2025-02-15"
+    },
+    "tuition_eur_semester": 4500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 700,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["BiTS Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["ThyssenKrupp", "Daimler", "Deloitte", "Accenture", "Media companies"],
+      "avg_starting_salary_eur": 40000,
+      "placement_rate_pct": 77
+    },
+    "description": "Business-IT hybrid school in Iserlohn (part of Global University Systems) offering programs at the intersection of technology and business management. Smaller class sizes and practical orientation.",
+    "data_source": "curated"
+  },
+  {
+    "name": "New European College Munich",
+    "name_german": "New European College",
+    "type": "private",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.new-european-college.com",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Management", "MSc Entrepreneurship and Innovation", "MBA International Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview", "Work experience preferred"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 7500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1150,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["NEC Merit Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["BMW", "MAN", "Siemens", "Allianz", "Munich Re"],
+      "avg_starting_salary_eur": 50000,
+      "placement_rate_pct": 82
+    },
+    "description": "Boutique private university in Munich offering management programs with a European perspective. Very small class sizes (under 30 students) and strong mentorship. Located in Germany's economic powerhouse city.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Fresenius University of Applied Sciences",
+    "name_german": "Hochschule Fresenius",
+    "type": "private",
+    "city": "Idstein",
+    "state": "Hesse",
+    "website": "https://www.hs-fresenius.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Data Science and Analytics", "MSc Digital Innovation and Business Transformation", "MSc Media Technology", "MSc Chemistry", "MSc Biology"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-31"
+    },
+    "tuition_eur_semester": 5300,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 900,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Fresenius Excellence Award", "DAAD", "Merit Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Fresenius SE", "Merck", "Bayer", "SAP", "Henkel"],
+      "avg_starting_salary_eur": 43000,
+      "placement_rate_pct": 81
+    },
+    "description": "One of Germany's oldest and largest private universities with campuses in Idstein, Cologne, Munich, Hamburg, Frankfurt, and Düsseldorf. Particularly strong in chemistry, biology, healthcare informatics, and digital media. Over 170 years of tradition.",
+    "data_source": "curated"
+  },
+  {
+    "name": "ISM International School of Management",
+    "name_german": "ISM International School of Management",
+    "type": "private",
+    "city": "Dortmund",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.ism.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Global Management", "MSc Digital Management", "MSc Marketing Management", "MSc Supply Chain Management", "MSc Finance"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview", "GMAT optional"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 6500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 750,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["ISM Excellence Scholarship", "International Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Thyssenkrupp", "Deutsche Post DHL", "Unilever", "E.ON", "Deloitte"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 83
+    },
+    "description": "State-accredited private business school with campuses in Dortmund, Frankfurt, Munich, Hamburg, Cologne, and Stuttgart. Focus on international management with strong industry partnerships in the Ruhr region and beyond.",
+    "data_source": "curated"
+  },
+  {
+    "name": "CBS International Business School",
+    "name_german": "Cologne Business School",
+    "type": "private",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.cbs.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Business", "MSc Digital Business Management", "MSc Marketing", "MSc Finance and Accounting"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5250,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["CBS Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Telekom", "Ford Germany", "Bayer", "Lanxess", "RTL Group"],
+      "avg_starting_salary_eur": 42000,
+      "placement_rate_pct": 79
+    },
+    "description": "International-focused private business school in Cologne with strong connections to the Rhineland business community. Good for Indian students seeking management education with a digital focus.",
+    "data_source": "curated"
+  },
+  {
+    "name": "GISMA Business School",
+    "name_german": "GISMA Business School",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.gisma.com",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Data Science and Analytics", "MSc Business Analytics", "MSc Project Management", "MBA", "MSc Computer Science"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": "2025-02-28"
+    },
+    "tuition_eur_semester": 4750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["GISMA Excellence Scholarship", "Early Bird Discount", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Deutsche Telekom", "IBM", "Accenture", "Zalando"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 81
+    },
+    "description": "Part of Global University Systems, GISMA Business School offers business and technology programs in Berlin and Hannover. Strong focus on analytics and business technology with flexible intake options.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Arden University Berlin",
+    "name_german": "Arden University Berlin",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://arden.ac.uk/berlin",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Data Analytics", "MSc Project Management", "MSc Cyber Security", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": "2025-02-28"
+    },
+    "tuition_eur_semester": 4500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Arden Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Siemens", "IBM Germany", "Accenture", "Deloitte"],
+      "avg_starting_salary_eur": 42000,
+      "placement_rate_pct": 78
+    },
+    "description": "UK-based Arden University's Berlin campus offering British degrees with German location advantages. Good for students wanting a UK-accredited degree while living in Berlin's tech hub. Flexible blended learning options available.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Steinbeis University Berlin",
+    "name_german": "Steinbeis-Hochschule Berlin",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.steinbeis-hochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Engineering Management", "MSc Technology and Innovation Management", "MSc Data Science", "MBA Technology Management", "MSc Project Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in engineering or related field", "Work experience preferred", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-31"
+    },
+    "tuition_eur_semester": 5500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Steinbeis Excellence Award", "DAAD", "Corporate Sponsorship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Bosch", "SAP", "Daimler", "Deutsche Telekom"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 88
+    },
+    "description": "Unique transfer-oriented university where all programs are linked with real company projects. Students work on actual business problems from day one. Particularly strong for engineering graduates wanting to transition into management roles with deep technical grounding.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Touro College Berlin",
+    "name_german": "Touro College Berlin",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.touro.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Business Administration", "MSc Computer Science", "MSc Health Informatics", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "2 recommendation letters"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-15"
+    },
+    "tuition_eur_semester": 5000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Touro Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["IBM", "SAP", "Siemens Health", "Charité", "Start-ups"],
+      "avg_starting_salary_eur": 41000,
+      "placement_rate_pct": 76
+    },
+    "description": "American-style liberal arts university in Berlin, part of Touro University's global network (New York). Offers US-accredited degrees in Germany. Small class sizes and strong academic support. Good for students wanting American-style education in Europe.",
+    "data_source": "curated"
+  },
+  {
+    "name": "EBS University for Business and Law",
+    "name_german": "EBS Universität für Wirtschaft und Recht",
+    "type": "private",
+    "city": "Oestrich-Winkel",
+    "state": "Hesse",
+    "website": "https://www.ebs.edu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Finance", "MSc Management", "MSc Business Analytics", "MSc Real Estate", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "GMAT recommended (600+)", "Statement of Purpose", "2 recommendation letters", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-05-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 11500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 900,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["EBS Excellence Scholarship", "DAAD", "International Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Goldman Sachs", "Deutsche Bank", "McKinsey", "PwC", "Commerzbank"],
+      "avg_starting_salary_eur": 62000,
+      "placement_rate_pct": 92
+    },
+    "description": "Private university in the Rheingau region near Frankfurt. One of Germany's oldest private business universities with strong connections to the German financial sector. Business Analytics track is relevant for quantitative/technical backgrounds.",
+    "data_source": "curated"
+  },
+  {
+    "name": "BSP Business School Berlin",
+    "name_german": "BSP Business School Berlin – Hochschule für Management",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.bsp-business.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Digital Business and Innovation", "MSc International Business Management", "MSc Marketing Management", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-08-15",
+      "summer": null
+    },
+    "tuition_eur_semester": 5750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["BSP Scholarship", "Early Application Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Zalando", "HelloFresh", "Axel Springer", "SAP", "Deutsche Telekom"],
+      "avg_starting_salary_eur": 45000,
+      "placement_rate_pct": 80
+    },
+    "description": "Berlin-based management school with focus on digital business and innovation. Located in Charlottenburg, close to Berlin's startup and corporate tech scene. Strong practical orientation with project-based learning.",
+    "data_source": "curated"
+  },
+  {
+    "name": "accadis Hochschule Bad Homburg",
+    "name_german": "accadis Hochschule Bad Homburg",
+    "type": "private",
+    "city": "Bad Homburg",
+    "state": "Hesse",
+    "website": "https://www.accadis.com",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Management", "MSc Pharmaceutical Management", "MBA International Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["accadis Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Bank", "Sanofi", "Fresenius", "Degussa Bank", "Merck"],
+      "avg_starting_salary_eur": 47000,
+      "placement_rate_pct": 82
+    },
+    "description": "Boutique private university near Frankfurt known for international management and pharmaceutical management. Very small cohorts with strong mentorship and industry ties to Frankfurt's financial and pharma sectors.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hamburg School of Business Administration",
+    "name_german": "Hamburg School of Business Administration (HSBA)",
+    "type": "private",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.hsba.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Business", "MSc Logistics and Supply Chain Management", "MSc Shipping", "MSc Digital Business Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Relevant work experience preferred", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-06-30",
+      "summer": null
+    },
+    "tuition_eur_semester": 6750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["HSBA Scholarship", "Hamburg Foundation Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Hapag-Lloyd", "Hamburg Port Authority", "Otto Group", "Airbus", "Beiersdorf"],
+      "avg_starting_salary_eur": 52000,
+      "placement_rate_pct": 89
+    },
+    "description": "Founded by the Hamburg Chamber of Commerce, HSBA is Hamburg's leading private business school. Strong connections to Hamburg's port, logistics, and trade industries. The dual study model integrates industry from day one. Excellent for tech students interested in logistics tech.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Schiller International University",
+    "name_german": "Schiller International University",
+    "type": "private",
+    "city": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "website": "https://www.schiller.edu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Business", "MSc Computer Science", "MBA International Business", "MSc Cybersecurity"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": "2025-02-28"
+    },
+    "tuition_eur_semester": 6500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 900,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Schiller Scholarship", "DAAD", "Merit Award"],
+    "career_prospects": {
+      "top_employers": ["SAP", "Heidelberg Cement", "ABB", "Daimler", "BASF"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 78
+    },
+    "description": "American-style private university with over 60 years in Europe. Multiple campuses across Europe (Heidelberg, Paris, Tampa, Madrid). Good for students wanting a multicultural American-curriculum experience in Germany.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Munich Business School",
+    "name_german": "Munich Business School",
+    "type": "private",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.munich-business-school.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Business", "MSc Innovation and Entrepreneurship", "MSc Digital Business", "MBA International Business"],
+    "admission_requirements": {
+      "min_cgpa": 7.0,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 90,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "GMAT optional but recommended", "Statement of Purpose", "2 recommendation letters", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-05-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 9500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1150,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["MBS Excellence Scholarship", "DAAD", "Women in Business Award"],
+    "career_prospects": {
+      "top_employers": ["BMW", "Siemens", "Allianz", "McKinsey", "Boston Consulting Group"],
+      "avg_starting_salary_eur": 60000,
+      "placement_rate_pct": 93
+    },
+    "description": "Munich's leading private business school with strong ties to Bavaria's automotive and tech industry. Programs emphasize international management with a digital transformation lens. Excellent career placement in Munich's premium employer market.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Wilhelm Büchner Hochschule",
+    "name_german": "Wilhelm Büchner Hochschule – Private Hochschule Darmstadt",
+    "type": "private",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "website": "https://www.wb-fernstudium.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Electrical Engineering", "MSc Informatik", "MSc Software Engineering", "MSc Technical Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in technical field", "German B2 level or higher", "Statement of Purpose"]
+    },
+    "deadlines": {
+      "winter": "2025-09-30",
+      "summer": "2025-03-31"
+    },
+    "tuition_eur_semester": 2100,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 900,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["DAAD", "Merit Scholarship"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Deutsche Telekom", "Bosch", "SAP", "Continental"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 82
+    },
+    "description": "Distance-learning private university specializing in engineering and computer science. Programs can be completed entirely online with flexible scheduling. Ideal for working professionals. Very affordable tuition for a private university in Germany.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule der Wirtschaft für Management (HdWM)",
+    "name_german": "Hochschule der Wirtschaft für Management Mannheim",
+    "type": "private",
+    "city": "Mannheim",
+    "state": "Baden-Württemberg",
+    "website": "https://www.hdwm.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Management", "MSc Digital Transformation Management", "MSc International Business Management", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Work experience preferred", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["HdWM Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "BASF", "Roche", "ABB", "John Deere"],
+      "avg_starting_salary_eur": 46000,
+      "placement_rate_pct": 83
+    },
+    "description": "Private management university in Mannheim's metropolitan region – home to some of Germany's biggest corporations. Strong industry partnerships in the Rhine-Neckar area. Focus on practical management education with digital transformation emphasis.",
+    "data_source": "curated"
+  },
+  {
+    "name": "DIPLOMA Hochschule",
+    "name_german": "DIPLOMA Hochschule",
+    "type": "private",
+    "city": "Bad Sooden-Allendorf",
+    "state": "Hesse",
+    "website": "https://www.diploma.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Computer Science", "MSc Business Informatics", "MSc Engineering Management", "MSc Healthcare Management", "MSc Data Science"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "German B2 level", "Statement of Purpose"]
+    },
+    "deadlines": {
+      "winter": "2025-09-15",
+      "summer": "2025-03-15"
+    },
+    "tuition_eur_semester": 2900,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 700,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["DAAD", "Merit Award"],
+    "career_prospects": {
+      "top_employers": ["Siemens", "Deutsche Telekom", "SAP", "Continental", "Bosch"],
+      "avg_starting_salary_eur": 42000,
+      "placement_rate_pct": 78
+    },
+    "description": "Distributed private university with over 30 study centers across Germany offering flexible and affordable programs. Multiple campuses enable students to study close to home or choose major city locations. Strong in applied computer science and engineering.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Allensbach Hochschule",
+    "name_german": "Allensbach Hochschule",
+    "type": "private",
+    "city": "Konstanz",
+    "state": "Baden-Württemberg",
+    "website": "https://www.allensbach-hochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Wirtschaftsinformatik (Business Informatics)", "MSc Management", "MBA"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "German B2 level", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-09-30",
+      "summer": "2025-03-31"
+    },
+    "tuition_eur_semester": 2500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["DAAD"],
+    "career_prospects": {
+      "top_employers": ["SAP", "ZF Friedrichshafen", "HELLA", "Dorma Kaba", "Siemens"],
+      "avg_starting_salary_eur": 40000,
+      "placement_rate_pct": 75
+    },
+    "description": "Affordable distance-learning private university on Lake Constance, near the Swiss border. Offers flexible online-based programs combining theory with practical applications. Ideal for working professionals looking to upskill.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Döpfer",
+    "name_german": "Hochschule Döpfer",
+    "type": "private",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.hochschule-doepfer.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Health Informatics", "BSc Physiotherapy", "BSc Occupational Therapy", "MSc Healthcare Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in health-related field", "German B2 level", "Statement of Purpose"]
+    },
+    "deadlines": {
+      "winter": "2025-08-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 3200,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["DAAD"],
+    "career_prospects": {
+      "top_employers": ["Uniklinik Köln", "Helios Hospitals", "Rhön-Klinikum", "Fresenius Helios", "BARMER"],
+      "avg_starting_salary_eur": 38000,
+      "placement_rate_pct": 80
+    },
+    "description": "Specialized private university in Cologne focused on healthcare professions and health informatics. Particularly relevant for students with CS backgrounds interested in medical informatics and digital health applications in Germany.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Mediadesign Hochschule",
+    "name_german": "Mediadesign Hochschule für Design und Informatik",
+    "type": "private",
+    "city": "Munich",
+    "state": "Bavaria",
+    "website": "https://www.mediadesign.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Informatik und Design", "MSc User Experience Design", "BSc Game Design", "BSc Visual Design"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in design or IT", "Portfolio", "German B2 level", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-15",
+      "summer": null
+    },
+    "tuition_eur_semester": 4500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1150,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["MD Talent Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["BMW", "MAN", "Siemens", "Burda Media", "Adobe"],
+      "avg_starting_salary_eur": 42000,
+      "placement_rate_pct": 82
+    },
+    "description": "Specialized design and informatics university with campuses in Munich, Berlin, and Düsseldorf. Strong intersection of UX, digital design, and programming. Good for CS/engineering students with design interests.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Provadis School of International Management and Technology",
+    "name_german": "Provadis Hochschule",
+    "type": "private",
+    "city": "Frankfurt am Main",
+    "state": "Hesse",
+    "website": "https://www.provadis-hochschule.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Business Engineering", "BSc Chemistry", "BSc Business Administration", "MSc Process Engineering", "MSc Business Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "German B2 level", "Statement of Purpose", "Work experience preferred (dual program)"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 3750,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1200,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["Infraserv Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Infraserv Höchst", "Sanofi", "Clariant", "Evonik", "Degussa"],
+      "avg_starting_salary_eur": 48000,
+      "placement_rate_pct": 85
+    },
+    "description": "Located in Frankfurt's Höchst industrial park, Provadis specializes in dual-study programs in partnership with chemical and pharmaceutical companies. Strong ties to Infraserv Höchst and the Frankfurt chemical industry cluster.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Cologne Business School",
+    "name_german": "Cologne Business School (CBS)",
+    "type": "private",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.cbs.de/en",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Digital Business Management", "MSc Marketing and Media", "MSc International Business", "MSc Finance and Accounting"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.5,
+      "toefl_min": 88,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5500,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["CBS Merit Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Deutsche Telekom", "Ford Europe", "Kölner Dom", "Bayer", "REWE Group"],
+      "avg_starting_salary_eur": 44000,
+      "placement_rate_pct": 81
+    },
+    "description": "State-accredited private university in Cologne offering business programs with strong digital focus. Located in one of Germany's largest cities with excellent industry access. Good for engineering graduates wanting business education.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Quadriga Hochschule Berlin",
+    "name_german": "Quadriga Hochschule Berlin",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.quadriga.eu",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Communications Management", "MBA Communications and Leadership", "MSc Digital Communication Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Relevant work experience (2+ years)", "German B2 level", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 5800,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["Quadriga Excellence Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Axel Springer", "Bertelsmann", "Deutsche Telekom", "SAP", "Daimler"],
+      "avg_starting_salary_eur": 48000,
+      "placement_rate_pct": 82
+    },
+    "description": "Specialized in communications, PR, and leadership education with strong Berlin media network. Part-time and full-time options available. Relevant for tech students interested in tech communications or digital PR in Germany.",
+    "data_source": "curated"
+  },
+  {
+    "name": "HTK Academy Hamburg",
+    "name_german": "HTK Academy of Design",
+    "type": "private",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.htk-hamburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Interaction Design", "BSc Motion Design", "BSc Fashion Design", "BSc Interior Architecture"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Portfolio", "German B2 level", "Entrance examination", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 4200,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["HTK Talent Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Airbus", "Otto Group", "Hamburg Sud", "Beiersdorf", "Edeka"],
+      "avg_starting_salary_eur": 38000,
+      "placement_rate_pct": 76
+    },
+    "description": "Design-focused private school in Hamburg specializing in interaction, fashion, and interior design. Relevant for CS students with strong design interests looking to enter UX/product design fields. Hamburg's creative industry connections.",
+    "data_source": "curated"
+  },
+  {
+    "name": "AMD Akademie Mode und Design",
+    "name_german": "AMD Akademie Mode & Design",
+    "type": "private",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.amd.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Fashion Design", "BSc Fashion Management", "BSc Fashion Journalism", "MSc Fashion and Design Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Portfolio of creative work", "German B2 level", "Interview", "Entrance exam"]
+    },
+    "deadlines": {
+      "winter": "2025-06-30",
+      "summer": null
+    },
+    "tuition_eur_semester": 4800,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B2",
+    "english_programs": false,
+    "scholarships": ["AMD Creative Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Hugo Boss", "Zalando", "About You", "Peek & Cloppenburg", "s.Oliver"],
+      "avg_starting_salary_eur": 36000,
+      "placement_rate_pct": 74
+    },
+    "description": "Germany's leading fashion and design academy with campuses in Hamburg, Düsseldorf, Berlin, Munich, and Frankfurt. Part of the Global University Systems network. Strong fashion and creative industry connections.",
+    "data_source": "curated"
+  },
+  {
+    "name": "IBS International Business School Hamburg",
+    "name_german": "IBS – International Business School of Service Management",
+    "type": "private",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "website": "https://www.ibs-hamburg.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc International Service Management", "MSc Hospitality and Tourism Management", "MBA International Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree", "Statement of Purpose", "CV/Resume", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-08-15",
+      "summer": null
+    },
+    "tuition_eur_semester": 4000,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1000,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["IBS Merit Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["TUI", "Marriott", "Hilton", "Hamburg Port Authority", "Lufthansa"],
+      "avg_starting_salary_eur": 38000,
+      "placement_rate_pct": 75
+    },
+    "description": "Specialized in service management and hospitality with strong ties to Hamburg's tourism and shipping industries. Offers hands-on learning with industry placements. Good for CS students wanting to enter tech-driven hospitality management.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Design Akademie Berlin",
+    "name_german": "Design Akademie Berlin – SRH Hochschule für Kommunikation und Design",
+    "type": "private",
+    "city": "Berlin",
+    "state": "Berlin",
+    "website": "https://www.design-akademie-berlin.de",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["BSc Communication Design", "BSc UX/UI Design", "BSc Photography", "MSc Design Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.0,
+      "language": "German",
+      "ielts_min": null,
+      "toefl_min": null,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Portfolio", "German B1 level", "Interview"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": null
+    },
+    "tuition_eur_semester": 4250,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 1050,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": true,
+    "german_level": "B1",
+    "english_programs": false,
+    "scholarships": ["DAB Creative Scholarship", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Zalando", "Axel Springer", "N26", "Delivery Hero", "Design agencies"],
+      "avg_starting_salary_eur": 40000,
+      "placement_rate_pct": 78
+    },
+    "description": "SRH-affiliated design school in Berlin focusing on communication design, UX/UI, and photography. Strong connections to Berlin's creative and tech startup ecosystem. Small cohorts with intensive studio-based learning.",
+    "data_source": "curated"
+  },
+  {
+    "name": "Hochschule Fresenius (Cologne)",
+    "name_german": "Hochschule Fresenius – Cologne Campus",
+    "type": "private",
+    "city": "Cologne",
+    "state": "North Rhine-Westphalia",
+    "website": "https://www.hs-fresenius.de/cologne",
+    "ranking_qs": null,
+    "ranking_the": null,
+    "programs": ["MSc Digital Media Management", "MSc Data Science and Analytics", "MSc International Business", "MSc Psychology", "MSc Healthcare Management"],
+    "admission_requirements": {
+      "min_cgpa": 6.5,
+      "language": "English",
+      "ielts_min": 6.0,
+      "toefl_min": 79,
+      "gre_required": false,
+      "aps_required": false,
+      "other": ["Bachelor degree in related field", "Statement of Purpose", "CV/Resume"]
+    },
+    "deadlines": {
+      "winter": "2025-07-31",
+      "summer": "2025-01-31"
+    },
+    "tuition_eur_semester": 5300,
+    "semester_fee_eur": 0,
+    "living_cost_eur_month": 850,
+    "aps_required": false,
+    "uni_assist_required": false,
+    "german_required": false,
+    "german_level": null,
+    "english_programs": true,
+    "scholarships": ["Fresenius Excellence Award", "DAAD"],
+    "career_prospects": {
+      "top_employers": ["Bayer", "Deutsche Telekom", "Ford Germany", "Lanxess", "WDR"],
+      "avg_starting_salary_eur": 43000,
+      "placement_rate_pct": 80
+    },
+    "description": "One of multiple Hochschule Fresenius campuses across Germany. Cologne campus has strong emphasis on digital media and data science. Well connected to Cologne's media and advertising industry cluster.",
+    "data_source": "curated"
+  }
+]

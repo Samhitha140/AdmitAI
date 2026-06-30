@@ -1,0 +1,26 @@
+{
+  "built_at": "2026-06-17T20:45:30.893541",
+  "total_raw": 169,
+  "total_clean": 149,
+  "source_raw_counts": {
+    "github_blog": 2,
+    "reddit": 0,
+    "web_samples": 6,
+    "synthetic": 161
+  },
+  "by_source": {
+    "synthetic_llm": 142,
+    "heliosky_blog": 2,
+    "web_sample": 5
+  },
+  "by_field": {
+    "Business/MBA": 43,
+    "Computer Science": 41,
+    "Mechanical Engineering": 43,
+    "Data Science": 17,
+    "Engineering": 3,
+    "General": 2
+  },
+  "confirmed_accepted": 2,
+  "avg_word_count": 403
+}

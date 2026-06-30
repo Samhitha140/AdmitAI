@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+frontend/.env
+.venv/
+venv/
+.chroma/
+.bm25_index.pkl
+outputs/
+*.egg-info/
+.pytest_cache/
+node_modules/
+dist/
+.DS_Store
+data/uni_docs/*.pdf
+# sop_dataset jsonl files ARE included (needed at runtime for SOP style examples)
+# data/sop_dataset/*.jsonl  ← intentionally not ignored
