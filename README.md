@@ -2,6 +2,8 @@
 
 > An end-to-end agentic AI system that guides Indian students through every step of applying to German universities — from eligibility matching to SOP generation, scholarship discovery, and deadline tracking.
 
+**Live Demo:** [admit-ai-delta.vercel.app](https://admit-ai-delta.vercel.app) · **API:** [admitai-5965.onrender.com](https://admitai-5965.onrender.com/docs)
+
 **Stack:** LangGraph · Gemini 2.5 Flash · Groq · Cerebras · phi-2 LoRA · FastAPI · React/Vite · Supabase
 
 ---
